@@ -1,0 +1,33 @@
+# Backend (Laravel)
+backend/vendor/
+backend/node_modules/
+backend/public/build
+backend/public/hot
+backend/public/storage
+backend/storage/*.key
+backend/.env
+backend/.env.backup
+backend/.phpunit.result.cache
+backend/Homestead.json
+backend/Homestead.yaml
+backend/npm-debug.log
+backend/yarn-error.log
+
+# App (Flutter)
+app/.dart_tool/
+app/.idea/
+app/android/
+app/ios/
+app/linux/
+app/macos/
+app/web/
+app/windows/
+app/build/
+app/ephemeral/
+app/*.iml
+app/*.ipr
+app/*.iws
+
+# General
+.DS_Store
+.idea/
