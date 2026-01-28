@@ -5,45 +5,53 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\ExamController;
 
-// Auth (Mock for MVP)
-Route::get('/user', function (Request $request) {
-    return $request->user();
-})->middleware('auth:sanctum');
+use App\Http\Controllers\AuthController;
 
-// Entitlements
-Route::get('/entitlements/check', function (Request $request) {
-    $userId = 1; 
-    $entitlement = DB::table('entitlements')
-        ->where('user_id', $userId)
-        ->where('expires_at', '>', now())
-        ->first();
+// Public Auth
+Route::post('/register', [AuthController::class, 'register']);
+Route::post('/login', [AuthController::class, 'login']);
 
-    return response()->json([
-        'active' => $entitlement !== null,
-        'entitlement' => $entitlement
-    ]);
-});
-
-Route::post('/entitlements/grant-demo', function (Request $request) {
-    $userId = 1;
-    $productId = $request->input('product_id', 'com.theoriezone.car.90days');
+// Protected Routes
+Route::middleware('auth:sanctum')->group(function () {
+    Route::get('/user', function (Request $request) {
+        return $request->user();
+    });
     
-    DB::table('entitlements')->insert([
-        'user_id' => $userId,
-        'product_id' => $productId,
-        'platform' => 'manual_demo',
-        'receipt_data' => 'demo_receipt',
-        'purchased_at' => now(),
-        'expires_at' => now()->addDays(90),
-        'created_at' => now(),
-        'updated_at' => now(),
-    ]);
+    // Entitlements (Real check)
+    Route::get('/entitlements/check', function (Request $request) {
+        $userId = $request->user()->id; 
+        $entitlement = DB::table('entitlements')
+            ->where('user_id', $userId)
+            ->where('expires_at', '>', now())
+            ->first();
 
-    return response()->json(['status' => 'granted']);
+        return response()->json([
+            'active' => $entitlement !== null,
+            'entitlement' => $entitlement
+        ]);
+    });
+
+    Route::post('/entitlements/grant-demo', function (Request $request) {
+        $userId = $request->user()->id;
+        $productId = $request->input('product_id', 'com.theoriezone.car.90days');
+        
+        DB::table('entitlements')->insert([
+            'user_id' => $userId,
+            'product_id' => $productId,
+            'platform' => 'manual_demo',
+            'receipt_data' => 'demo_receipt',
+            'purchased_at' => now(),
+            'expires_at' => now()->addDays(90),
+            'created_at' => now(),
+            'updated_at' => now(),
+        ]);
+
+        return response()->json(['status' => 'granted']);
+    });
+
+    // Exams
+    Route::get('/exams', [ExamController::class, 'index']);
+    Route::post('/exams/random', [ExamController::class, 'startRandom']);
+    Route::post('/exams/{id}/submit', [ExamController::class, 'submit']);
+    Route::get('/exams/{id}', [ExamController::class, 'show']);
 });
-
-// Exams
-Route::get('/exams', [ExamController::class, 'index']);
-Route::post('/exams/random', [ExamController::class, 'startRandom']);
-Route::post('/exams/{id}/submit', [ExamController::class, 'submit']);
-Route::get('/exams/{id}', [ExamController::class, 'show']);

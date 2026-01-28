@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:theoriezone_app/paywall_screen.dart';
 import 'package:theoriezone_app/api.dart';
 import 'package:theoriezone_app/exam_list_screen.dart';
+import 'package:theoriezone_app/auth_screen.dart';
 import 'dart:convert';
 
 void main() {
@@ -19,8 +20,45 @@ class TheorieZoneApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const HomeScreen(),
+      home: const StartupScreen(),
     );
+  }
+}
+
+class StartupScreen extends StatefulWidget {
+  const StartupScreen({super.key});
+
+  @override
+  State<StartupScreen> createState() => _StartupScreenState();
+}
+
+class _StartupScreenState extends State<StartupScreen> {
+  @override
+  void initState() {
+    super.initState();
+    _checkSession();
+  }
+
+  Future<void> _checkSession() async {
+    final token = await Api.getToken();
+    if (token == null) {
+      if (mounted) {
+        Navigator.of(context).pushReplacement(
+          MaterialPageRoute(builder: (_) => const AuthScreen()),
+        );
+      }
+    } else {
+      if (mounted) {
+        Navigator.of(context).pushReplacement(
+          MaterialPageRoute(builder: (_) => const HomeScreen()),
+        );
+      }
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(body: Center(child: CircularProgressIndicator()));
   }
 }
 
@@ -43,7 +81,6 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _checkAccess() async {
     try {
-      // Check entitlements via backend
       final res = await Api.get('/entitlements/check');
       if (res.statusCode == 200) {
         final data = jsonDecode(res.body);
@@ -54,9 +91,18 @@ class _HomeScreenState extends State<HomeScreen> {
           });
         }
         return;
+      } else if (res.statusCode == 401) {
+        // Token expired
+        await Api.setToken(""); // Clear
+        if (mounted) {
+           Navigator.of(context).pushReplacement(
+            MaterialPageRoute(builder: (_) => const AuthScreen()),
+          );
+        }
+        return;
       }
     } catch (e) {
-      // Network error, fallthrough
+      // Network error
     }
     
     if (mounted) {
@@ -75,9 +121,18 @@ class _HomeScreenState extends State<HomeScreen> {
     if (result == true) {
       setState(() {
         _hasAccess = true;
-        _isLoading = true; // Re-check to be sure or just switch
+        _isLoading = true; 
       });
       _checkAccess();
+    }
+  }
+
+  void _logout() async {
+    await Api.setToken(""); // Clear token
+    if (mounted) {
+      Navigator.of(context).pushReplacement(
+        MaterialPageRoute(builder: (_) => const AuthScreen()),
+      );
     }
   }
 
@@ -88,11 +143,24 @@ class _HomeScreenState extends State<HomeScreen> {
     }
 
     if (_hasAccess) {
-      return const ExamListScreen();
+      return Scaffold(
+        appBar: AppBar(
+          title: const Text('TheorieZone'),
+          actions: [
+            IconButton(icon: const Icon(Icons.logout), onPressed: _logout)
+          ],
+        ),
+        body: const ExamListScreen(), // Embed list directly
+      );
     }
 
     return Scaffold(
-      appBar: AppBar(title: const Text('TheorieZone')),
+      appBar: AppBar(
+        title: const Text('TheorieZone'),
+        actions: [
+            IconButton(icon: const Icon(Icons.logout), onPressed: _logout)
+        ],
+      ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
