@@ -40,11 +40,15 @@ De backend draait volledig in Docker containers. Je hoeft lokaal geen PHP of Pos
    # Installeer PHP packages
    docker exec theoriezone-api composer install
 
+   # Installeer Sanctum (Auth) & Publiceer config
+   docker exec theoriezone-api composer require laravel/sanctum
+   docker exec theoriezone-api php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+
    # Genereer app key
    docker exec theoriezone-api php artisan key:generate
 
    # Run database migraties en seed (testdata)
-   docker exec theoriezone-api php artisan migrate --seed
+   docker exec theoriezone-api php artisan migrate:fresh --seed
    ```
 
 4. Check of het werkt:
