@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:theoriezone_app/api.dart';
@@ -20,43 +21,89 @@ class _ExamScreenState extends State<ExamScreen> {
   int _currentIndex = 0;
   final Map<int, int> _answers = {}; 
   int? _attemptId;
+  
+  // Timer vars
+  Timer? _timer;
+  int _secondsRemaining = 0;
 
   @override
   void initState() {
     super.initState();
     if (widget.examData != null) {
-      _exam = widget.examData;
-      _attemptId = widget.examData!['attempt_id'];
-      _isLoading = false;
+      _initExam(widget.examData!);
     } else if (widget.examId != null) {
       _fetchExam(widget.examId!);
     }
   }
 
+  @override
+  void dispose() {
+    _timer?.cancel();
+    super.dispose();
+  }
+
+  void _initExam(Map<String, dynamic> data) {
+    setState(() {
+      _exam = data;
+      _attemptId = data['attempt_id'];
+      _isLoading = false;
+      // Init timer (default 30 mins if not provided)
+      int duration = data['duration_minutes'] ?? 30;
+      _secondsRemaining = duration * 60;
+    });
+    _startTimer();
+  }
+
   Future<void> _fetchExam(int id) async {
     try {
-      // Old flow: manual attempt creation needed here or backend should handle it on submit
-      // For MVP fixed exam, we assume attempt is created on submit or we just use ID 1
       final response = await Api.get('/exams/$id');
       if (response.statusCode == 200) {
-        setState(() {
-          _exam = jsonDecode(response.body);
-          _isLoading = false;
-        });
+        _initExam(jsonDecode(response.body));
       }
     } catch (e) {
       setState(() => _isLoading = false);
     }
   }
 
+  void _startTimer() {
+    _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
+      if (_secondsRemaining > 0) {
+        setState(() => _secondsRemaining--);
+      } else {
+        _timer?.cancel();
+        _timeExpired();
+      }
+    });
+  }
+
+  void _timeExpired() {
+    if (_isSubmitting) return;
+    
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (_) => AlertDialog(
+        title: const Text("Tijd is op!"),
+        content: const Text("Je examen wordt nu ingeleverd."),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(context), child: const Text("OK"))
+        ],
+      ),
+    ).then((_) => _submitExam());
+  }
+
+  String get _timerString {
+    final minutes = (_secondsRemaining / 60).floor().toString().padLeft(2, '0');
+    final seconds = (_secondsRemaining % 60).toString().padLeft(2, '0');
+    return "$minutes:$seconds";
+  }
+
   Future<void> _submitExam() async {
     if (_isSubmitting) return;
+    _timer?.cancel();
     setState(() => _isSubmitting = true);
 
-    // If we don't have an attempt ID (fixed exam flow), we might need to create one first
-    // For now, let's assume random flow sets attempt_id.
-    // Fallback for fixed exam: we create a dummy attempt 999 or fix backend.
-    final id = _attemptId ?? 1; // Fallback for testing fixed exam
+    final id = _attemptId ?? 1; 
 
     try {
       final response = await Api.post('/exams/$id/submit', {
@@ -101,9 +148,37 @@ class _ExamScreenState extends State<ExamScreen> {
     final questions = _exam!['questions'] as List;
     final currentQ = questions[_currentIndex];
 
+    // Timer color gets red when < 5 mins
+    final timerColor = _secondsRemaining < 300 ? Colors.red : Colors.white;
+
     return Scaffold(
       appBar: AppBar(
         title: Text('Vraag ${_currentIndex + 1}/${questions.length}'),
+        actions: [
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+            margin: const EdgeInsets.only(right: 16),
+            decoration: BoxDecoration(
+              color: _secondsRemaining < 300 ? Colors.red.shade100 : Colors.deepPurple.shade50,
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(color: _secondsRemaining < 300 ? Colors.red : Colors.deepPurple),
+            ),
+            child: Row(
+              children: [
+                Icon(Icons.timer, size: 16, color: _secondsRemaining < 300 ? Colors.red : Colors.deepPurple),
+                const SizedBox(width: 4),
+                Text(
+                  _timerString,
+                  style: TextStyle(
+                    fontWeight: FontWeight.bold,
+                    color: _secondsRemaining < 300 ? Colors.red : Colors.deepPurple,
+                    fontFeatures: const [FontFeature.tabularFigures()], // Fixed width numbers
+                  ),
+                ),
+              ],
+            ),
+          )
+        ],
       ),
       body: Column(
         children: [
