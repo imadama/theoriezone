@@ -27,7 +27,6 @@ class ExamController extends Controller
 
     public function startRandom(Request $request)
     {
-        // 1. Pick 50 random active questions
         $questions = Question::where('is_active', true)
             ->inRandomOrder()
             ->limit(50)
@@ -39,10 +38,9 @@ class ExamController extends Controller
 
         $this->transformImages($questions);
 
-        // 2. Create an Attempt record
         $attempt = ExamAttempt::create([
-            'user_id' => 1, // Mock user
-            'exam_id' => 1, // Link to default exam template
+            'user_id' => 1,
+            'exam_id' => 1, 
             'started_at' => now(),
             'status' => 'in_progress',
             'answers' => []
@@ -52,6 +50,48 @@ class ExamController extends Controller
             'attempt_id' => $attempt->id,
             'questions' => $questions,
             'duration_minutes' => 30
+        ]);
+    }
+
+    public function submit(Request $request, $attemptId)
+    {
+        $attempt = ExamAttempt::where('user_id', 1)->findOrFail($attemptId);
+        if ($attempt->status !== 'in_progress') {
+            return response()->json(['error' => 'Exam already finished'], 400);
+        }
+
+        $answers = $request->input('answers', []); // { question_id: index }
+        
+        // Calculate Score
+        $questionIds = array_keys($answers);
+        $questions = Question::whereIn('id', $questionIds)->get();
+        
+        $score = 0;
+        $total = count($answers) > 0 ? count($answers) : 1; 
+
+        foreach ($questions as $q) {
+            $given = $answers[$q->id] ?? null;
+            if ($given !== null && (int)$given === $q->correct_index) {
+                $score++;
+            }
+        }
+
+        // Threshold: 80%
+        $passed = ($score / $total >= 0.8);
+
+        $attempt->update([
+            'status' => 'completed',
+            'finished_at' => now(),
+            'score' => $score,
+            'passed' => $passed,
+            'answers' => $answers
+        ]);
+
+        return response()->json([
+            'score' => $score,
+            'total' => $total,
+            'passed' => $passed,
+            'grade' => round(($score / $total) * 10, 1)
         ]);
     }
 

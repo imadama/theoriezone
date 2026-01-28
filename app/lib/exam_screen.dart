@@ -1,10 +1,11 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:theoriezone_app/api.dart';
+import 'package:theoriezone_app/result_screen.dart';
 
 class ExamScreen extends StatefulWidget {
   final int? examId;
-  final Map<String, dynamic>? examData; // Direct data (for random exam)
+  final Map<String, dynamic>? examData;
 
   const ExamScreen({super.key, this.examId, this.examData});
 
@@ -15,14 +16,17 @@ class ExamScreen extends StatefulWidget {
 class _ExamScreenState extends State<ExamScreen> {
   Map<String, dynamic>? _exam;
   bool _isLoading = true;
+  bool _isSubmitting = false;
   int _currentIndex = 0;
   final Map<int, int> _answers = {}; 
+  int? _attemptId;
 
   @override
   void initState() {
     super.initState();
     if (widget.examData != null) {
       _exam = widget.examData;
+      _attemptId = widget.examData!['attempt_id'];
       _isLoading = false;
     } else if (widget.examId != null) {
       _fetchExam(widget.examId!);
@@ -31,6 +35,8 @@ class _ExamScreenState extends State<ExamScreen> {
 
   Future<void> _fetchExam(int id) async {
     try {
+      // Old flow: manual attempt creation needed here or backend should handle it on submit
+      // For MVP fixed exam, we assume attempt is created on submit or we just use ID 1
       final response = await Api.get('/exams/$id');
       if (response.statusCode == 200) {
         setState(() {
@@ -40,6 +46,44 @@ class _ExamScreenState extends State<ExamScreen> {
       }
     } catch (e) {
       setState(() => _isLoading = false);
+    }
+  }
+
+  Future<void> _submitExam() async {
+    if (_isSubmitting) return;
+    setState(() => _isSubmitting = true);
+
+    // If we don't have an attempt ID (fixed exam flow), we might need to create one first
+    // For now, let's assume random flow sets attempt_id.
+    // Fallback for fixed exam: we create a dummy attempt 999 or fix backend.
+    final id = _attemptId ?? 1; // Fallback for testing fixed exam
+
+    try {
+      final response = await Api.post('/exams/$id/submit', {
+        'answers': _answers
+      });
+
+      if (response.statusCode == 200) {
+        final result = jsonDecode(response.body);
+        if (mounted) {
+          Navigator.pushReplacement(
+            context,
+            MaterialPageRoute(builder: (context) => ResultScreen(result: result)),
+          );
+        }
+      } else {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+             SnackBar(content: Text('Fout bij inleveren: ${response.body}')),
+          );
+        }
+      }
+    } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(SnackBar(content: Text('Error: $e')));
+        }
+    } finally {
+      if (mounted) setState(() => _isSubmitting = false);
     }
   }
 
@@ -135,10 +179,12 @@ class _ExamScreenState extends State<ExamScreen> {
                     if (_currentIndex < questions.length - 1) {
                       setState(() => _currentIndex++);
                     } else {
-                      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Examen afronden...')));
+                      _submitExam();
                     }
                   },
-                  child: Text(_currentIndex < questions.length - 1 ? 'Volgende' : 'Afronden'),
+                  child: _isSubmitting 
+                    ? const SizedBox(width: 20, height: 20, child: CircularProgressIndicator(strokeWidth: 2))
+                    : Text(_currentIndex < questions.length - 1 ? 'Volgende' : 'Afronden'),
                 ),
               ],
             ),
