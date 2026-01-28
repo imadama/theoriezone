@@ -44,4 +44,5 @@ Route::post('/entitlements/grant-demo', function (Request $request) {
 
 // Exams
 Route::get('/exams', [ExamController::class, 'index']);
+Route::post('/exams/random', [ExamController::class, 'startRandom']);
 Route::get('/exams/{id}', [ExamController::class, 'show']);

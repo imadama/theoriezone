@@ -3,8 +3,10 @@ import 'package:flutter/material.dart';
 import 'package:theoriezone_app/api.dart';
 
 class ExamScreen extends StatefulWidget {
-  final int examId;
-  const ExamScreen({super.key, required this.examId});
+  final int? examId;
+  final Map<String, dynamic>? examData; // Direct data (for random exam)
+
+  const ExamScreen({super.key, this.examId, this.examData});
 
   @override
   State<ExamScreen> createState() => _ExamScreenState();
@@ -14,17 +16,22 @@ class _ExamScreenState extends State<ExamScreen> {
   Map<String, dynamic>? _exam;
   bool _isLoading = true;
   int _currentIndex = 0;
-  final Map<int, int> _answers = {}; // question_id -> answer_index
+  final Map<int, int> _answers = {}; 
 
   @override
   void initState() {
     super.initState();
-    _fetchExam();
+    if (widget.examData != null) {
+      _exam = widget.examData;
+      _isLoading = false;
+    } else if (widget.examId != null) {
+      _fetchExam(widget.examId!);
+    }
   }
 
-  Future<void> _fetchExam() async {
+  Future<void> _fetchExam(int id) async {
     try {
-      final response = await Api.get('/exams/${widget.examId}');
+      final response = await Api.get('/exams/$id');
       if (response.statusCode == 200) {
         setState(() {
           _exam = jsonDecode(response.body);
@@ -56,7 +63,6 @@ class _ExamScreenState extends State<ExamScreen> {
       ),
       body: Column(
         children: [
-          // Image
           if (currentQ['image_url'] != null)
             Image.network(
               currentQ['image_url'],
@@ -76,7 +82,6 @@ class _ExamScreenState extends State<ExamScreen> {
                   Text(currentQ['text'], style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
                   const SizedBox(height: 20),
                   
-                  // Options
                   ...List.generate(currentQ['options'].length, (index) {
                     final option = currentQ['options'][index];
                     final isSelected = _answers[currentQ['id']] == index;
@@ -112,7 +117,6 @@ class _ExamScreenState extends State<ExamScreen> {
             ),
           ),
           
-          // Bottom Navigation
           Padding(
             padding: const EdgeInsets.all(16.0),
             child: Row(
@@ -131,7 +135,6 @@ class _ExamScreenState extends State<ExamScreen> {
                     if (_currentIndex < questions.length - 1) {
                       setState(() => _currentIndex++);
                     } else {
-                      // Submit exam logic
                       ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Examen afronden...')));
                     }
                   },
