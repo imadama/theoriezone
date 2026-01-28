@@ -1,0 +1,59 @@
+services:
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: theoriezone-api
+    container_name: theoriezone-api
+    restart: unless-stopped
+    working_dir: /var/www/html
+    volumes:
+      - ./backend:/var/www/html
+    networks:
+      - theoriezone-network
+    depends_on:
+      - db
+      - redis
+
+  nginx:
+    image: nginx:alpine
+    container_name: theoriezone-nginx
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    volumes:
+      - ./backend:/var/www/html
+      - ./docker/nginx/conf.d:/etc/nginx/conf.d
+    networks:
+      - theoriezone-network
+    depends_on:
+      - api
+
+  db:
+    image: postgres:15-alpine
+    container_name: theoriezone-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: theoriezone
+      POSTGRES_USER: theoriezone
+      POSTGRES_PASSWORD: password
+    volumes:
+      - theoriezone-db-data:/var/lib/postgresql/data
+    networks:
+      - theoriezone-network
+    ports:
+      - "5433:5432"
+
+  redis:
+    image: redis:alpine
+    container_name: theoriezone-redis
+    restart: unless-stopped
+    networks:
+      - theoriezone-network
+
+networks:
+  theoriezone-network:
+    driver: bridge
+
+volumes:
+  theoriezone-db-data:
