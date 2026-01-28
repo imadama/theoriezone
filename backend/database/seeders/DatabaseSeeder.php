@@ -46,5 +46,8 @@ class DatabaseSeeder extends Seeder
 
         // Link question to exam
         $exam->questions()->attach($q1->id, ['position' => 1]);
+
+        // 4. Run Scraped Questions
+        $this->call(ScrapedQuestionsSeeder::class);
     }
 }

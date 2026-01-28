@@ -1,0 +1,6236 @@
+[
+  {
+    "external_id": "612",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane maximum snelheid op deze weg? 587",
+    "image_raw": null
+  },
+  {
+    "external_id": "613",
+    "category": "Wetgeving",
+    "text": "Hoeveel kilometer per uur mag je hier maximaal rijden? 588",
+    "image_raw": null
+  },
+  {
+    "external_id": "614",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane maximum snelheid op deze weg? 589",
+    "image_raw": null
+  },
+  {
+    "external_id": "615",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane maximum snelheid op deze weg? 590",
+    "image_raw": null
+  },
+  {
+    "external_id": "616",
+    "category": "Wetgeving",
+    "text": "Welke maximum snelheid is hier van toepassing? 591",
+    "image_raw": null
+  },
+  {
+    "external_id": "617",
+    "category": "Wetgeving",
+    "text": "U rijdt hier 30 km per uur, mag dat? 592",
+    "image_raw": null
+  },
+  {
+    "external_id": "618",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane maximum snelheid op deze weg? 593",
+    "image_raw": null
+  },
+  {
+    "external_id": "619",
+    "category": "Wetgeving",
+    "text": "U wilt hier 100 km per uur gaan rijden, mag dat? 594",
+    "image_raw": null
+  },
+  {
+    "external_id": "620",
+    "category": "Wetgeving",
+    "text": "U wilt de vrachtauto inhalen met 130 km per uur, mag dat? 595",
+    "image_raw": null
+  },
+  {
+    "external_id": "621",
+    "category": "Wetgeving",
+    "text": "U rijdt hier stapvoets, moet dat? 596",
+    "image_raw": null
+  },
+  {
+    "external_id": "622",
+    "category": "Wetgeving",
+    "text": "U rijdt hier 70 km per uur, mag dat? 597",
+    "image_raw": null
+  },
+  {
+    "external_id": "623",
+    "category": "Wetgeving",
+    "text": "U wilt de doorgaande rijbaan oprijden met 40 km per uur, mag dat? 598",
+    "image_raw": null
+  },
+  {
+    "external_id": "624",
+    "category": "Wetgeving",
+    "text": "U wilt op deze weg 120 km per uur gaan rijden, mag dat? 599",
+    "image_raw": null
+  },
+  {
+    "external_id": "625",
+    "category": "Wetgeving",
+    "text": "Op welke wegen kan de snelheid maximaal 120 km per uur zijn? 600",
+    "image_raw": null
+  },
+  {
+    "external_id": "626",
+    "category": "Wetgeving",
+    "text": "Hoe hard mogen bestuurders binnen een erf rijden? 601",
+    "image_raw": null
+  },
+  {
+    "external_id": "627",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane maximum snelheid op deze weg? 602",
+    "image_raw": null
+  },
+  {
+    "external_id": "628",
+    "category": "Wetgeving",
+    "text": "U wilt op deze weg 100 km per uur gaan rijden, mag dat? 603",
+    "image_raw": null
+  },
+  {
+    "external_id": "629",
+    "category": "Wetgeving",
+    "text": "U wilt hier 90 km per uur gaan rijden, mag dat? 604",
+    "image_raw": null
+  },
+  {
+    "external_id": "630",
+    "category": "Wetgeving",
+    "text": "Wat is uw maximum snelheid na dit bord? 605",
+    "image_raw": null
+  },
+  {
+    "external_id": "631",
+    "category": "Wetgeving",
+    "text": "Voor welke maximum snelheid is deze weg ingericht? 606",
+    "image_raw": null
+  },
+  {
+    "external_id": "632",
+    "category": "Wetgeving",
+    "text": "Voor welke maximum snelheid is deze weg ingericht? 607",
+    "image_raw": null
+  },
+  {
+    "external_id": "633",
+    "category": "Wetgeving",
+    "text": "Voor welke maximum snelheid is deze weg ingericht? 608",
+    "image_raw": null
+  },
+  {
+    "external_id": "634",
+    "category": "Wetgeving",
+    "text": "Welke weg is ingericht voor een maximum snelheid van 80 km per uur? 609",
+    "image_raw": null
+  },
+  {
+    "external_id": "635",
+    "category": "Wetgeving",
+    "text": "Op welke weg mag je 80 km per uur rijden? 610",
+    "image_raw": null
+  },
+  {
+    "external_id": "636",
+    "category": "Wetgeving",
+    "text": "Hoe snel moet een motorvoertuig kunnen en mogen rijden om gebruik te mogen maken van de autosnelweg? 611",
+    "image_raw": null
+  },
+  {
+    "external_id": "637",
+    "category": "Wetgeving",
+    "text": "Hoe snel moet een motorvoertuig kunnen en mogen rijden om gebruik te mogen maken van de autoweg? 612",
+    "image_raw": null
+  },
+  {
+    "external_id": "638",
+    "category": "Wetgeving",
+    "text": "Wat is de maximale toegestane snelheid op deze weg? 613",
+    "image_raw": null
+  },
+  {
+    "external_id": "639",
+    "category": "Wetgeving",
+    "text": "U rijdt om 22.00 op de autosnelweg en ziet deze borden. Wat is dan de toegestane snelheid op deze weg? 614",
+    "image_raw": null
+  },
+  {
+    "external_id": "640",
+    "category": "Wetgeving",
+    "text": "U rijdt om 22.00 op de autosnelweg en ziet dit bord. Wat is dan de toegestane snelheid op deze weg? 615",
+    "image_raw": null
+  },
+  {
+    "external_id": "641",
+    "category": "Wetgeving",
+    "text": "U rijdt hier 60 km per uur, mag dat? 616",
+    "image_raw": null
+  },
+  {
+    "external_id": "642",
+    "category": "Wetgeving",
+    "text": "Geldt op de spitsstrook dezelfde maximum snelheid als op de overige rijstroken? 617",
+    "image_raw": null
+  },
+  {
+    "external_id": "643",
+    "category": "Wetgeving",
+    "text": "U gaat langzamer rijden, wat is daar het gevolg van? 618",
+    "image_raw": null
+  },
+  {
+    "external_id": "644",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om de auto te lossen, mag dat? 620",
+    "image_raw": null
+  },
+  {
+    "external_id": "645",
+    "category": "Wetgeving",
+    "text": "U stopt hier even, mag dat? 621",
+    "image_raw": null
+  },
+  {
+    "external_id": "646",
+    "category": "Wetgeving",
+    "text": "U stopt hier even, mag dat? 622",
+    "image_raw": null
+  },
+  {
+    "external_id": "647",
+    "category": "Wetgeving",
+    "text": "Geldt het stilstaan verbod ook voor de parkeerplaatsen? 623",
+    "image_raw": null
+  },
+  {
+    "external_id": "648",
+    "category": "Wetgeving",
+    "text": "Mag je hier stilstaan in het parkeervak om een passagier uit te laten stappen? 624",
+    "image_raw": null
+  },
+  {
+    "external_id": "649",
+    "category": "Wetgeving",
+    "text": "U wilt parkeren in een parkeervak binnen de zone, mag dat? 625",
+    "image_raw": null
+  },
+  {
+    "external_id": "650",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om iemand in te laten stappen, mag dat?",
+    "image_raw": null
+  },
+  {
+    "external_id": "651",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een pakket af te geven, mag dat? 627",
+    "image_raw": null
+  },
+  {
+    "external_id": "652",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om de auto te laden, mag dat? 628",
+    "image_raw": null
+  },
+  {
+    "external_id": "653",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een passagier uit te laten stappen, mag dat? 629",
+    "image_raw": null
+  },
+  {
+    "external_id": "654",
+    "category": "Wetgeving",
+    "text": "U parkeert hier, mag dat? 630",
+    "image_raw": null
+  },
+  {
+    "external_id": "655",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om de auto te wassen, mag dat? 631",
+    "image_raw": null
+  },
+  {
+    "external_id": "656",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om de auto te laden, mag dat? 632",
+    "image_raw": null
+  },
+  {
+    "external_id": "657",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een vriend uit te laten stappen, mag dat? 633",
+    "image_raw": null
+  },
+  {
+    "external_id": "658",
+    "category": "Wetgeving",
+    "text": "Mag u hier stilstaan? 634",
+    "image_raw": null
+  },
+  {
+    "external_id": "659",
+    "category": "Wetgeving",
+    "text": "U stopt hier om de weg te vragen, mag dat? 635",
+    "image_raw": null
+  },
+  {
+    "external_id": "660",
+    "category": "Wetgeving",
+    "text": "U parkeert hier, hoe moet u de parkeerschijf instellen? 636",
+    "image_raw": null
+  },
+  {
+    "external_id": "661",
+    "category": "Wetgeving",
+    "text": "Waar moet u de parkeerschijf plaatsen? 637",
+    "image_raw": null
+  },
+  {
+    "external_id": "512",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De autobus wil van de halte wegrijden, moet u de bus voor laten gaan? (511)",
+    "image_raw": null
+  },
+  {
+    "external_id": "513",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De touringcar wil van de halte wegrijden. Moet je de touringcar voor laten gaan? (512)",
+    "image_raw": null
+  },
+  {
+    "external_id": "514",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt rechtsaf, sorteert u zo goed voor? (487)",
+    "image_raw": null
+  },
+  {
+    "external_id": "515",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt rechtsaf, sorteert u zo goed voor? (488)",
+    "image_raw": null
+  },
+  {
+    "external_id": "516",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt rechtsaf, sorteert u zo goed voor? (489)",
+    "image_raw": null
+  },
+  {
+    "external_id": "517",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt rechtsaf, sorteert u zo goed voor? (490)",
+    "image_raw": null
+  },
+  {
+    "external_id": "518",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt rechtsaf, sorteert u zo goed voor? (491)",
+    "image_raw": null
+  },
+  {
+    "external_id": "519",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier linksaf, sorteert u zo goed voor? (492)",
+    "image_raw": null
+  },
+  {
+    "external_id": "520",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier linksaf, wat is dan de juiste plaats op de weg? (493)",
+    "image_raw": null
+  },
+  {
+    "external_id": "521",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt linksaf, sorteert u zo goed voor? (494)",
+    "image_raw": null
+  },
+  {
+    "external_id": "522",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt linksaf, sorteert u zo goed voor? (495)",
+    "image_raw": null
+  },
+  {
+    "external_id": "523",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt linksaf, sorteert u zo goed voor? (496)",
+    "image_raw": null
+  },
+  {
+    "external_id": "524",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Stopt u hier op de juiste plaats om de vrachtwagen voor te laten gaan? (497)",
+    "image_raw": null
+  },
+  {
+    "external_id": "525",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De vrachtwagen wil afslaan, mag u een stukje achteruit rijden om ruimte te maken voor de vrachtwagen? (498)",
+    "image_raw": null
+  },
+  {
+    "external_id": "526",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Stopt u hier op de juiste plek om de bus voor te laten gaan? 499",
+    "image_raw": null
+  },
+  {
+    "external_id": "527",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, mag u hier wachten tot u door kunt rijden? 500",
+    "image_raw": null
+  },
+  {
+    "external_id": "528",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt hier linksaf, mag u hier wachten totdat u door kunt rijden? 501",
+    "image_raw": null
+  },
+  {
+    "external_id": "529",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U ziet een ambulance met optische en geluidssignalen naderen, mag u uitwijken naar de fietsstrook om de ambulance voor te laten gaan?  502",
+    "image_raw": null
+  },
+  {
+    "external_id": "530",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier alsnog rechtsaf, mag dat? 503",
+    "image_raw": null
+  },
+  {
+    "external_id": "531",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier alsnog rechtdoor, mag dat? 504",
+    "image_raw": null
+  },
+  {
+    "external_id": "532",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier linksaf de inrit in, mag dat? 505",
+    "image_raw": null
+  },
+  {
+    "external_id": "533",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wisselt hier van rijstrook, mag dat? 506",
+    "image_raw": null
+  },
+  {
+    "external_id": "534",
+    "category": "Wetgeving",
+    "text": "Uw auto en aanhangwagen zijn samen 7.50 meter lang. Mag u via deze rijstrook inhalen? 507",
+    "image_raw": null
+  },
+  {
+    "external_id": "535",
+    "category": "Wetgeving",
+    "text": "Uw auto en aanhangwagen zijn samen 6.90 meter lang. Mag u via deze rijstrook inhalen? 508",
+    "image_raw": null
+  },
+  {
+    "external_id": "536",
+    "category": "Wetgeving",
+    "text": "Moet u verwachten dat de vrachtauto op uw rijstrook gaat rijden? 509",
+    "image_raw": null
+  },
+  {
+    "external_id": "537",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Moet u de ritser ruimte geven? 510",
+    "image_raw": null
+  },
+  {
+    "external_id": "538",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt rechtdoor, mag u zo blijven rijden? 511",
+    "image_raw": null
+  },
+  {
+    "external_id": "539",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt rechtdoor, mag u zo blijven rijden? 512",
+    "image_raw": null
+  },
+  {
+    "external_id": "540",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Alle files rijden ongeveer even hard. Hoe kunt u de doorstroming bevorderen? 513",
+    "image_raw": null
+  },
+  {
+    "external_id": "541",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Kunt u filevorming verkleinen door de afstand tot uw voorligger te verkleinen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "542",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U blijft hier rijden, mag dat? 515",
+    "image_raw": null
+  },
+  {
+    "external_id": "543",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U blijft hier rijden, mag dat? 516",
+    "image_raw": null
+  },
+  {
+    "external_id": "544",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U blijft hier op de middelste rijstrook rijden, mag dat? 517",
+    "image_raw": null
+  },
+  {
+    "external_id": "545",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt rechtsaf, mag u hier blijven rijden? 518",
+    "image_raw": null
+  },
+  {
+    "external_id": "546",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt rechtdoor, mag u zo blijven rijden? 519",
+    "image_raw": null
+  },
+  {
+    "external_id": "547",
+    "category": "Wetgeving",
+    "text": "Is het verplicht om gebruik te maken van de spitsstrook? 520",
+    "image_raw": null
+  },
+  {
+    "external_id": "548",
+    "category": "Wetgeving",
+    "text": "Moet u gebruik maken van de spitsstrook als deze geopend is? 521",
+    "image_raw": null
+  },
+  {
+    "external_id": "549",
+    "category": "Gebruik van de weg",
+    "text": "U wilt rechtdoor, mag u zo blijven rijden? 522",
+    "image_raw": null
+  },
+  {
+    "external_id": "550",
+    "category": "Gebruik van de weg",
+    "text": "Moet u binnen een erf zoveel mogelijk rechts rijden? 523",
+    "image_raw": null
+  },
+  {
+    "external_id": "551",
+    "category": "Gebruik van de weg",
+    "text": "U wilt rechtdoor. Mag u hier nog van rijstrook wisselen? 524",
+    "image_raw": null
+  },
+  {
+    "external_id": "552",
+    "category": "Gebruik van de weg",
+    "text": "U wilt hier van rijstrook wisselen, mag dat? 525",
+    "image_raw": null
+  },
+  {
+    "external_id": "553",
+    "category": "Gebruik van de weg",
+    "text": "U wilt bij het eerste verkeerslicht direct linksaf, mag dat? 526",
+    "image_raw": null
+  },
+  {
+    "external_id": "554",
+    "category": "Gebruik van de weg",
+    "text": "Bent u hier goed zichtbaar voor bestuurders van rechts? 527",
+    "image_raw": null
+  },
+  {
+    "external_id": "555",
+    "category": "Wetgeving",
+    "text": "Waar mag hier een ruiter rijden? 528",
+    "image_raw": null
+  },
+  {
+    "external_id": "556",
+    "category": "Wetgeving",
+    "text": "Wordt u hier gewaarschuwd voor overstekende ruiters? 529",
+    "image_raw": null
+  },
+  {
+    "external_id": "557",
+    "category": "Gebruik van de weg",
+    "text": "Waar moet u rekening mee houden bij het verlaten van de autosnelweg? 530",
+    "image_raw": null
+  },
+  {
+    "external_id": "558",
+    "category": "Gebruik van de weg",
+    "text": "U wilt uitvoegen en gaat op de doorgaande rijstrook al langzamer rijden. Wanneer doet u dit? 531",
+    "image_raw": null
+  },
+  {
+    "external_id": "559",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier 80 km per uur en raakt met uw rechterwiel in de zachte berm. Wat doet u als eerst? 532",
+    "image_raw": null
+  },
+  {
+    "external_id": "560",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welke bestuurders moeten hier gebruik maken van de fietsstrook? 533",
+    "image_raw": null
+  },
+  {
+    "external_id": "561",
+    "category": "Gebruik van de weg",
+    "text": "Kunt u hier fietsers op de rijbaan verwachten? 534",
+    "image_raw": null
+  },
+  {
+    "external_id": "262",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt 80 km/u en moet stoppen, wat moet u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "263",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U wilt de ruiter inhalen, wat doet u? 259",
+    "image_raw": null
+  },
+  {
+    "external_id": "264",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U blijft hier 40 km/u rijden, mag dat? 260",
+    "image_raw": null
+  },
+  {
+    "external_id": "265",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke volgafstand houdt u aan voordat u gaat inhalen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "266",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke volgafstand moet u tenminste aanhouden bij een snelheid van 60 km/u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "267",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke volgafstand moet u tenminste aanhouden bij een snelheid van 120 km/u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "268",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat bepaalt de minimale volgafstand die u moet aanhouden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "269",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Bij welke weersomstandigheden is twee seconden afstand houden voldoende?",
+    "image_raw": null
+  },
+  {
+    "external_id": "270",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat moet u tijdens het rijden in dichte mist doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "271",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat is de gemiddelde reactietijd van een bestuurder?",
+    "image_raw": null
+  },
+  {
+    "external_id": "272",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je rijdt 120 km/u en je reactietijd is 1 seconden. Welke afstand leg je af voordat je gaat remmen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "273",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De bromfietser verleent aan u geen voorrang, mag u toch doorrijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "274",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt 40 km/u, mag u zo achter de tram blijven rijden? 270",
+    "image_raw": null
+  },
+  {
+    "external_id": "275",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat moet u doen om te voorkomen dat op een besneeuwde weg de aangedreven wielen door gaan slippen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "276",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U gebruikt sneeuwkettingen, wat moet u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "277",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt op de autosnelweg en wordt gewaarschuwd met dit bord, wat moet u doen? 273",
+    "image_raw": null
+  },
+  {
+    "external_id": "278",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je hebt hier last van sterke zijwind, wat kunt u het beste doen? 274",
+    "image_raw": null
+  },
+  {
+    "external_id": "279",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wanneer heeft het zin om winterbanden te gebruiken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "280",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat voor effect heeft een winterband op de remweg als je deze in de zomer gebruikt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "281",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Bij welke temperatuur begint de werking van winterbanden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "282",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt met zomerse temperaturen op winterbanden. Wat is het gevolg voor de remweg? 278",
+    "image_raw": null
+  },
+  {
+    "external_id": "283",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wordt ingehaald, mag u nu uw snelheid verhogen? 279",
+    "image_raw": null
+  },
+  {
+    "external_id": "284",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat is de belangrijkste oorzaak van motorongevallen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "285",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waardoor lopen motorrijders meer risico in het verkeer?",
+    "image_raw": null
+  },
+  {
+    "external_id": "286",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U maakt deel uit van een langzaam rijdende file, wat verwachten inhalende motorrijders hier van u? 282",
+    "image_raw": null
+  },
+  {
+    "external_id": "287",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U maakt deel uit van een langzaam rijdende file, wat verwachten inhalende motorrijders hier van u? 283",
+    "image_raw": null
+  },
+  {
+    "external_id": "288",
+    "category": "Gebruik van de weg",
+    "text": "Wanneer moet je rekening houden met motorrijders die tussen de file doorrijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "289",
+    "category": "Gebruik van de weg",
+    "text": "Wanneer moet je verwachten dat motorrijders tussen de file doorrijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "290",
+    "category": "Wetgeving",
+    "text": "Voor wie is de gedragscode motorrijders in de file geschreven?",
+    "image_raw": null
+  },
+  {
+    "external_id": "291",
+    "category": "Wetgeving",
+    "text": "Welke volgafstand moet u tenminste aanhouden bij een snelheid van 100 km/u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "292",
+    "category": "Wetgeving",
+    "text": "Hoe handelt u in deze situatie? 288",
+    "image_raw": null
+  },
+  {
+    "external_id": "293",
+    "category": "Wetgeving",
+    "text": "Wat doet u hier? 289",
+    "image_raw": null
+  },
+  {
+    "external_id": "294",
+    "category": "Wetgeving",
+    "text": "Wat doet u hier? 290",
+    "image_raw": null
+  },
+  {
+    "external_id": "295",
+    "category": "Wetgeving",
+    "text": "U rijdt hier 40 km/u, wat doet u? 291",
+    "image_raw": null
+  },
+  {
+    "external_id": "296",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U rijdt hier 100 km/u, mag u zo blijven rijden? 292",
+    "image_raw": null
+  },
+  {
+    "external_id": "297",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wordt ingehaald. U denkt dat de inhaler het niet haalt, wat doet u? 293",
+    "image_raw": null
+  },
+  {
+    "external_id": "298",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Wie loopt hier betrokken te worden bij een aanrijding? 294",
+    "image_raw": null
+  },
+  {
+    "external_id": "299",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Welke bestuurder moet hier een geluidssignaal geven ter afwending van dreigend gevaar? 295",
+    "image_raw": null
+  },
+  {
+    "external_id": "300",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "De vrachtwagen rijdt u tegemoet, wat doet u? 296",
+    "image_raw": null
+  },
+  {
+    "external_id": "301",
+    "category": "Wetgeving",
+    "text": "Waar kunt u een brommobiel op de rijbaan verwachten? 297",
+    "image_raw": null
+  },
+  {
+    "external_id": "302",
+    "category": "Wetgeving",
+    "text": "Waaraan herkent u een brommobiel?",
+    "image_raw": null
+  },
+  {
+    "external_id": "303",
+    "category": "Wetgeving",
+    "text": "Moet je een brommobiel als motorvoertuig beschouwen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "304",
+    "category": "Wetgeving",
+    "text": "U wilt de doorgaande rijbaan oprijden. Moet u op de vluchtstrook eerst voldoende snelheid maken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "305",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Een tegenligger haalt in en u denkt dat hij het niet haalt, wat doet u? 301",
+    "image_raw": null
+  },
+  {
+    "external_id": "306",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U gaat rechtsaf en moet de fietser voor laten gaan. Bij welke situatie staat u veilig opgesteld? 302",
+    "image_raw": null
+  },
+  {
+    "external_id": "307",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Er stappen kinderen in deze stilstaande bussen, wat doet u? 303",
+    "image_raw": null
+  },
+  {
+    "external_id": "308",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt 70 km/u en blijft zo achter de motor rijden, mag dat? 304",
+    "image_raw": null
+  },
+  {
+    "external_id": "309",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Kunt u uw stopafstand verkleinen door goed te anticiperen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "310",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Na een lange droge periode begint het te regenen, wat is de invloed hiervan op de stopafstand?",
+    "image_raw": null
+  },
+  {
+    "external_id": "311",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Na een lange droge periode begint het te regenen, waardoor moet u uw rijgedrag aanpassen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "462",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 459",
+    "image_raw": null
+  },
+  {
+    "external_id": "463",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 460",
+    "image_raw": null
+  },
+  {
+    "external_id": "464",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 461",
+    "image_raw": null
+  },
+  {
+    "external_id": "465",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 462",
+    "image_raw": null
+  },
+  {
+    "external_id": "466",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag er eerst? 463",
+    "image_raw": null
+  },
+  {
+    "external_id": "467",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag er eerst? 464",
+    "image_raw": null
+  },
+  {
+    "external_id": "468",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag er eerst? 465",
+    "image_raw": null
+  },
+  {
+    "external_id": "469",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie moet je hier voor laten gaan? 466",
+    "image_raw": null
+  },
+  {
+    "external_id": "470",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag eerst? 467",
+    "image_raw": null
+  },
+  {
+    "external_id": "471",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag er eerst? 468",
+    "image_raw": null
+  },
+  {
+    "external_id": "472",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag er eerst? 469",
+    "image_raw": null
+  },
+  {
+    "external_id": "473",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie mag er als laatst? 470",
+    "image_raw": null
+  },
+  {
+    "external_id": "474",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is de juiste volgorde van voor laten gaan? 471",
+    "image_raw": null
+  },
+  {
+    "external_id": "475",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetganger voor laten gaan? 473",
+    "image_raw": null
+  },
+  {
+    "external_id": "476",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De voetganger loopt met krukken, moet u hem voor laten gaan? 474",
+    "image_raw": null
+  },
+  {
+    "external_id": "477",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Moet u de voetganger met blindenstok voor laten gaan? 475",
+    "image_raw": null
+  },
+  {
+    "external_id": "478",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wanneer moet je een blinde persoon met witte stok met rode ringen voor laten gaan? 476",
+    "image_raw": null
+  },
+  {
+    "external_id": "479",
+    "category": "Voorrang en voor laten gaan",
+    "text": "In welke situatie moet u de voetganger voor laten gaan? 477",
+    "image_raw": null
+  },
+  {
+    "external_id": "480",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u het  gehandicapten voertuig voor laten gaan? 478",
+    "image_raw": null
+  },
+  {
+    "external_id": "481",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u deze weggebruiker voor laten gaan? 479",
+    "image_raw": null
+  },
+  {
+    "external_id": "482",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u het gehandicapten voertuig voor laten gaan? 480",
+    "image_raw": null
+  },
+  {
+    "external_id": "483",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u het gehandicapten voertuig voor laten gaan? 481",
+    "image_raw": null
+  },
+  {
+    "external_id": "484",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wanneer moet u de voetganger altijd voor laten gaan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "485",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie moet u bij een voetgangers oversteekplaats voor laten gaan? 483",
+    "image_raw": null
+  },
+  {
+    "external_id": "486",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Moet u deze weggebruiker voor laten gaan? 484",
+    "image_raw": null
+  },
+  {
+    "external_id": "487",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is iemand die met een paard aan de hand loopt? 485",
+    "image_raw": null
+  },
+  {
+    "external_id": "488",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat betekent deze markering achterop een fiets? 486",
+    "image_raw": null
+  },
+  {
+    "external_id": "489",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de brandweerauto met bijzondere signalen voor laten gaan? (488)",
+    "image_raw": null
+  },
+  {
+    "external_id": "490",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Je wilt doorrijden zonder de brandweerauto voor te laten gaan, mag dat? (489)",
+    "image_raw": null
+  },
+  {
+    "external_id": "491",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat moet je hier verwachten? (490)",
+    "image_raw": null
+  },
+  {
+    "external_id": "492",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de politieauto bij bijzondere signalen voor laten gaan? (491)",
+    "image_raw": null
+  },
+  {
+    "external_id": "493",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De politieauto voert geen bijzondere signalen, moet u de politieauto voor laten gaan? (492)",
+    "image_raw": null
+  },
+  {
+    "external_id": "494",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De politieauto voert geen bijzondere signalen, moet u de politieauto voor laten gaan? (493)",
+    "image_raw": null
+  },
+  {
+    "external_id": "495",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De politieauto voert bijzondere signalen, mag je door rood rijden om ruimte te maken? (494)",
+    "image_raw": null
+  },
+  {
+    "external_id": "496",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Mag je de oprit van een huis gebruiken om de brandweerauto met bijzondere signalen voor te laten gaan? (495)",
+    "image_raw": null
+  },
+  {
+    "external_id": "497",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U ziet een ambulance met optische en geluidssignalen en nadert een kruispunt, wat doet u? (496)",
+    "image_raw": null
+  },
+  {
+    "external_id": "498",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Er nadert een ambulance met optische en geluidssignalen, mag je de vluchthaven gebruiken om de ambulance voor te laten gaan? (497)",
+    "image_raw": null
+  },
+  {
+    "external_id": "499",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Je rijdt hier in de file op de autosnelweg. Waar maak je ruimte voor voorrangsvoertuigen? (498)",
+    "image_raw": null
+  },
+  {
+    "external_id": "500",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de militaire colonne voor laten gaan? (499)",
+    "image_raw": null
+  },
+  {
+    "external_id": "501",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u hier de gehele militaire colonne voor laten gaan? (500)",
+    "image_raw": null
+  },
+  {
+    "external_id": "502",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u hier de gehele militaire colonne voor laten gaan? (501)",
+    "image_raw": null
+  },
+  {
+    "external_id": "503",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de afslaande tram voor laten gaan? (502)",
+    "image_raw": null
+  },
+  {
+    "external_id": "504",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de tram voor laten gaan? (503)",
+    "image_raw": null
+  },
+  {
+    "external_id": "505",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de tram voor laten gaan? (504)",
+    "image_raw": null
+  },
+  {
+    "external_id": "506",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de uitvaartstoet voor laten gaan? (505)",
+    "image_raw": null
+  },
+  {
+    "external_id": "507",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Waaraan herkent u het eerste voertuig van de militaire colonne? (506)",
+    "image_raw": null
+  },
+  {
+    "external_id": "508",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Welk voertuig mag de uitvaartstoet niet doorsnijden? (507)",
+    "image_raw": null
+  },
+  {
+    "external_id": "509",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Waar moet u bestuurders van een autobus de gelegenheid geven om bij een bushalte weg te rijden? (508)",
+    "image_raw": null
+  },
+  {
+    "external_id": "510",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Welke bestuurders moet u binnen de bebouwde kom de gelegenheid geven om bij een bushalte weg te rijden? (509)",
+    "image_raw": null
+  },
+  {
+    "external_id": "511",
+    "category": "Voorrang en voor laten gaan",
+    "text": "De autobus wil van de halte wegrijden. Moet u de autobus voor laten gaan? (510)",
+    "image_raw": null
+  },
+  {
+    "external_id": "162",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Een kind van 1m50 zit voorin en gebruikt alleen de autogordel, mag dat?",
+    "image_raw": null
+  },
+  {
+    "external_id": "163",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "In welk geval mag u een kind zonder een geschikt kinderzitje vervoeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "164",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Een kind komt met zijn oren boven de rand van het kinderzitje, is dat veilig?",
+    "image_raw": null
+  },
+  {
+    "external_id": "165",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Uw passagier heeft een kind op schoot, mag u zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "166",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat moet u doen als een deel van de autogordel tegen de hals loopt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "167",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Moet u een kind van 1m30 met een zittingsverhoger meenemen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "180",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Op welke wijze kunt u brandstof besparen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "177",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Hoe kunt u het brandstofverbruik verminderen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "170",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Belast u het milieu extra als u de motor warm laat draaien?",
+    "image_raw": null
+  },
+  {
+    "external_id": "171",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met geopende zijruiten, heeft dit invloed op het brandstofverbruik?",
+    "image_raw": null
+  },
+  {
+    "external_id": "172",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Belast u het milieu extra als u de ramen open laat tijdens het autorijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "173",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met extra gewicht in uw auto, waar heeft dit invloed op?",
+    "image_raw": null
+  },
+  {
+    "external_id": "174",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met meerdere passagiers in de auto, waar moet extra rekening mee gehouden worden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "175",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met een fietsendrager op uw auto. Gebruikt u hierdoor extra brandstof?",
+    "image_raw": null
+  },
+  {
+    "external_id": "176",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Kunt u door de cruise control te gebruiken brandstof besparen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "179",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wat is het nadeel van cruise control?",
+    "image_raw": null
+  },
+  {
+    "external_id": "181",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Bij welk toerental verbruikt de auto meer brandstof?",
+    "image_raw": null
+  },
+  {
+    "external_id": "182",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Kunt u de toerenteller gebruiken om het juiste schakelmoment te bepalen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "183",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Kunt u bij het schakelen bij het juiste toerental brandstof besparen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "184",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U schakelt bij een hoog toerental door naar de volgende versnelling. Heeft u dan een hoger brandstofverbruik?",
+    "image_raw": null
+  },
+  {
+    "external_id": "185",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met een hoog toerental. Wat gebeurt er met de CO2 uitstoot?",
+    "image_raw": null
+  },
+  {
+    "external_id": "186",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Waarvoor gebruikt men de toerenteller?",
+    "image_raw": null
+  },
+  {
+    "external_id": "187",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "De toerenteller van je auto is defect, mag je doorrijden naar de garage?",
+    "image_raw": null
+  },
+  {
+    "external_id": "188",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt hier 50 km/uur, hoe kunt u brandstof besparen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "189",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Is het beter voor het milieu om \u2018s winters voor het wegrijden de motor eerst goed warm te laten draaien?",
+    "image_raw": null
+  },
+  {
+    "external_id": "190",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met een skibox op uw auto. Is dit van invloed op uw brandstofverbruik?",
+    "image_raw": null
+  },
+  {
+    "external_id": "191",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Kunt u door het aanhouden van de juiste volgafstand brandstof besparen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "192",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wanneer wordt het brandstofverbruik hoger?",
+    "image_raw": null
+  },
+  {
+    "external_id": "193",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wat gebeurt er met het brandstofverbruik als u goed anticipeert?",
+    "image_raw": null
+  },
+  {
+    "external_id": "194",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U remt krachtig af en trekt vervolgens hard op. Verbruikt uw auto hierdoor extra brandstof?",
+    "image_raw": null
+  },
+  {
+    "external_id": "195",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U remt krachtig af en trekt vervolgens hard op. Bespaart uw auto hierdoor extra brandstof?",
+    "image_raw": null
+  },
+  {
+    "external_id": "196",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wat kan het brandstofverbruik aanmerkelijk verhogen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "197",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Is het gebruik van de achterruitverwarming van invloed op het brandstofverbruik?",
+    "image_raw": null
+  },
+  {
+    "external_id": "198",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wat verbruikt het meeste energie in een personenauto?",
+    "image_raw": null
+  },
+  {
+    "external_id": "199",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "De slagbomen gaan omlaag, mag u de motor laten draaien?",
+    "image_raw": null
+  },
+  {
+    "external_id": "200",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt in een tunnel met stilstaande file, wat gaat u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "201",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt een tunnel uit, waar houdt u rekening mee?",
+    "image_raw": null
+  },
+  {
+    "external_id": "202",
+    "category": "Wetgeving",
+    "text": "Sommige medicijnen hebben invloed op de rijvaardigheid, waar kunt u dat vinden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "203",
+    "category": "Wetgeving",
+    "text": "Is het effect van medicijnen altijd merkbaar?",
+    "image_raw": null
+  },
+  {
+    "external_id": "204",
+    "category": "Wetgeving",
+    "text": "Sommige medicijnen verlagen het reactievermogen. Wat is het gevolg als die medicijnen met alcohol worden gebruikt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "205",
+    "category": "Wetgeving",
+    "text": "Welke middelen kunnen de rijvaardigheid be\u00efnvloeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "206",
+    "category": "Wetgeving",
+    "text": "Wordt de rijvaardigheid al be\u00efnvloed na het roken van 1 jointje?",
+    "image_raw": null
+  },
+  {
+    "external_id": "207",
+    "category": "Wetgeving",
+    "text": "Welk effect heeft het roken van een joint op uw reactievermogen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "208",
+    "category": "Wetgeving",
+    "text": "Bestaan er geneesmiddelen die de rijvaardigheid be\u00efnvloeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "209",
+    "category": "Wetgeving",
+    "text": "U rijdt met medicijnen op die de rijvaardigheid be\u00efnvloeden. Is dit strafbaar?",
+    "image_raw": null
+  },
+  {
+    "external_id": "210",
+    "category": "Wetgeving",
+    "text": "Het gebruik van uw onderbeen is beperkt. Levert dat bij het rijden in een schakelauto extra risico op?",
+    "image_raw": null
+  },
+  {
+    "external_id": "211",
+    "category": "Wetgeving",
+    "text": "U wilt met uw arm in het gips in een auto met automaat gaan rijden, mag dat?",
+    "image_raw": null
+  },
+  {
+    "external_id": "662",
+    "category": "Wetgeving",
+    "text": "U parkeert hier zonder parkeerschijf, mag dat? 638",
+    "image_raw": null
+  },
+  {
+    "external_id": "663",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om iemand uit te laten stappen terwijl uw auto niet voorzien is van een parkeerschijf. Mag dat? 639",
+    "image_raw": null
+  },
+  {
+    "external_id": "664",
+    "category": "Wetgeving",
+    "text": "Je stopt hier om een pakket af te geven, mag dat? 640",
+    "image_raw": null
+  },
+  {
+    "external_id": "665",
+    "category": "Wetgeving",
+    "text": "Mag u hier op zondag zonder parkeerschijf parkeren? 641",
+    "image_raw": null
+  },
+  {
+    "external_id": "666",
+    "category": "Wetgeving",
+    "text": "U parkeert hier, mag dat? 642",
+    "image_raw": null
+  },
+  {
+    "external_id": "667",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een passagier te laten uitstappen, mag dat? 643",
+    "image_raw": null
+  },
+  {
+    "external_id": "668",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een passagier uit te laten stappen, mag dat? 644",
+    "image_raw": null
+  },
+  {
+    "external_id": "669",
+    "category": "Wetgeving",
+    "text": "Je stopt hier om iemand uit te laten stappen, mag dat? 645",
+    "image_raw": null
+  },
+  {
+    "external_id": "670",
+    "category": "Wetgeving",
+    "text": "Je ontvangt een bericht op je telefoon , mag je hier even stilstaan om het bericht te bekijken? 646",
+    "image_raw": null
+  },
+  {
+    "external_id": "671",
+    "category": "Wetgeving",
+    "text": "U wordt opgebeld, mag je hier stilstaan om de telefoon te beantwoorden? 647",
+    "image_raw": null
+  },
+  {
+    "external_id": "672",
+    "category": "Wetgeving",
+    "text": "Bij welk bord is parkeren verboden? 648",
+    "image_raw": null
+  },
+  {
+    "external_id": "673",
+    "category": "Wetgeving",
+    "text": "Deze verkeersborden staan onder elkaar. Wat betekenen ze samen? 649",
+    "image_raw": null
+  },
+  {
+    "external_id": "674",
+    "category": "Wetgeving",
+    "text": "Mag u binnen een erf buiten de vakken parkeren? 650",
+    "image_raw": null
+  },
+  {
+    "external_id": "675",
+    "category": "Wetgeving",
+    "text": "U stopt om een passagier uit te laten stappen, mag dat? 651",
+    "image_raw": null
+  },
+  {
+    "external_id": "676",
+    "category": "Wetgeving",
+    "text": "Je staat hier stil om spullen uit te laden, mag dat? 652",
+    "image_raw": null
+  },
+  {
+    "external_id": "677",
+    "category": "Wetgeving",
+    "text": "Mag je hier stoppen om een passagier uit te laten stappen? 653",
+    "image_raw": null
+  },
+  {
+    "external_id": "678",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een lifter mee te nemen, mag dat? 654",
+    "image_raw": null
+  },
+  {
+    "external_id": "679",
+    "category": "Wetgeving",
+    "text": "Is het verboden om hier kaart te lezen? 655",
+    "image_raw": null
+  },
+  {
+    "external_id": "680",
+    "category": "Wetgeving",
+    "text": "U stopt hier even, mag dat? 656",
+    "image_raw": null
+  },
+  {
+    "external_id": "681",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om iemand uit te laten stappen, mag dat? 657",
+    "image_raw": null
+  },
+  {
+    "external_id": "682",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om kaart te lezen, mag dat? 658",
+    "image_raw": null
+  },
+  {
+    "external_id": "683",
+    "category": "Wetgeving",
+    "text": "Wanneer mag je een vluchtstrook gebruiken? 659",
+    "image_raw": null
+  },
+  {
+    "external_id": "684",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om kaart te lezen, mag dat? 660",
+    "image_raw": null
+  },
+  {
+    "external_id": "685",
+    "category": "Wetgeving",
+    "text": "U wordt opgebeld, mag u hier stoppen om de telefoon te beantwoorden? 661",
+    "image_raw": null
+  },
+  {
+    "external_id": "686",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om kaart te lezen, mag dat? 662",
+    "image_raw": null
+  },
+  {
+    "external_id": "687",
+    "category": "Wetgeving",
+    "text": "U wordt opgebeld en stopt hier om de telefoon te beantwoorden. Is dat verboden? 663",
+    "image_raw": null
+  },
+  {
+    "external_id": "688",
+    "category": "Wetgeving",
+    "text": "U stopt hier om een passagier uit te laten stappen, mag dat? 664",
+    "image_raw": null
+  },
+  {
+    "external_id": "689",
+    "category": "Wetgeving",
+    "text": "U parkeert hier, mag dat? 665",
+    "image_raw": null
+  },
+  {
+    "external_id": "690",
+    "category": "Wetgeving",
+    "text": "U parkeert hier, mag dat? 666",
+    "image_raw": null
+  },
+  {
+    "external_id": "691",
+    "category": "Wetgeving",
+    "text": "Binnen maximaal hoeveel meter van een voetgangersoversteekplaats mag u niet parkeren? 667",
+    "image_raw": null
+  },
+  {
+    "external_id": "692",
+    "category": "Wetgeving",
+    "text": "U parkeert op 8 meter van een fiets oversteekplaats, mag dat? 668",
+    "image_raw": null
+  },
+  {
+    "external_id": "693",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om de auto te lossen, mag dat? 669",
+    "image_raw": null
+  },
+  {
+    "external_id": "694",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om iemand uit te laten stappen, mag dat? 670",
+    "image_raw": null
+  },
+  {
+    "external_id": "695",
+    "category": "Wetgeving",
+    "text": "U staat hier stil om iemand uit te laten stappen, mag dat? 671",
+    "image_raw": null
+  },
+  {
+    "external_id": "696",
+    "category": "Wetgeving",
+    "text": "Waar mag u stilstaan? 672",
+    "image_raw": null
+  },
+  {
+    "external_id": "697",
+    "category": "Wetgeving",
+    "text": "Waar mag u stilstaan? 673",
+    "image_raw": null
+  },
+  {
+    "external_id": "698",
+    "category": "Wetgeving",
+    "text": "Waar mag u niet stilstaan? 674",
+    "image_raw": null
+  },
+  {
+    "external_id": "699",
+    "category": "Gebruik van de weg",
+    "text": "U wilt de autosnelweg verlaten. Op welke afstand van de afrit moet u richting aangeven? 676",
+    "image_raw": null
+  },
+  {
+    "external_id": "700",
+    "category": "Gebruik van de weg",
+    "text": "U kunt de doorgaande rijbaan nog niet oprijden. Mag u nu al richting aangeven? 677",
+    "image_raw": null
+  },
+  {
+    "external_id": "701",
+    "category": "Gebruik van de weg",
+    "text": "U wilt inhalen, wanneer moet u richting aangeven? 678",
+    "image_raw": null
+  },
+  {
+    "external_id": "702",
+    "category": "Gebruik van de weg",
+    "text": "U wilt invoegen, mag u nu al richting aangeven? 679",
+    "image_raw": null
+  },
+  {
+    "external_id": "703",
+    "category": "Gebruik van de weg",
+    "text": "U gaat rechtsaf, moet u nu al richting aangeven? 680",
+    "image_raw": null
+  },
+  {
+    "external_id": "704",
+    "category": "Gebruik van de weg",
+    "text": "U wilt van rijstrook wisselen, moet u nu richting aangeven? 681",
+    "image_raw": null
+  },
+  {
+    "external_id": "705",
+    "category": "Gebruik van de weg",
+    "text": "U wilt linksaf, moet u richting aangeven? 682",
+    "image_raw": null
+  },
+  {
+    "external_id": "706",
+    "category": "Gebruik van de weg",
+    "text": "U wilt de doorgaande rijbaan oprijden, moet u richting aangeven? 683",
+    "image_raw": null
+  },
+  {
+    "external_id": "707",
+    "category": "Gebruik van de weg",
+    "text": "U wilt de rotonde driekwart rond, mag u nu al richting aangeven naar links? 684",
+    "image_raw": null
+  },
+  {
+    "external_id": "708",
+    "category": "Gebruik van de weg",
+    "text": "U neemt de derde afslag, waar geeft u richting aan naar links? 685",
+    "image_raw": null
+  },
+  {
+    "external_id": "709",
+    "category": "Gebruik van de weg",
+    "text": "U neemt de tweede afslag, waar geeft u richting aan naar rechts? 686",
+    "image_raw": null
+  },
+  {
+    "external_id": "710",
+    "category": "Gebruik van de weg",
+    "text": "U wilt wegrijden, wanneer moet u richting aangeven? 687",
+    "image_raw": null
+  },
+  {
+    "external_id": "711",
+    "category": "Gebruik van de weg",
+    "text": "U wilt hier geen gebruik maken van de doorgaande rijbaan. Wat is veilig? 688",
+    "image_raw": null
+  },
+  {
+    "external_id": "912",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor een verkeersdrempel? 890",
+    "image_raw": null
+  },
+  {
+    "external_id": "913",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een gesloten verklaring aan in beide richtingen? 891",
+    "image_raw": null
+  },
+  {
+    "external_id": "914",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Aan welke markering kunt u zien dat u een vrachtwagen zonder aanhangwagen inhaalt? 892",
+    "image_raw": null
+  },
+  {
+    "external_id": "915",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 893",
+    "image_raw": null
+  },
+  {
+    "external_id": "916",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord bent u verplicht om linksaf te slaan? 894",
+    "image_raw": null
+  },
+  {
+    "external_id": "917",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Voor wie geldt deze gesloten verklaring? 895",
+    "image_raw": null
+  },
+  {
+    "external_id": "918",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 896",
+    "image_raw": null
+  },
+  {
+    "external_id": "919",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 897",
+    "image_raw": null
+  },
+  {
+    "external_id": "920",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een adviessnelheid aan? 898",
+    "image_raw": null
+  },
+  {
+    "external_id": "921",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft het einde van de maximumsnelheid aan? 899",
+    "image_raw": null
+  },
+  {
+    "external_id": "923",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geven deze elektronische signaleringsborden aan? 900",
+    "image_raw": null
+  },
+  {
+    "external_id": "924",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U blijft de snelweg volgen, met hoeveel rijstroken gaat de snelweg verder? 901",
+    "image_raw": null
+  },
+  {
+    "external_id": "925",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U blijft de snelweg volgen, met hoeveel rijstroken gaat de snelweg verder? 902",
+    "image_raw": null
+  },
+  {
+    "external_id": "926",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U gaat richting Nijmegen, blijft u dan op de autosnelweg? 903",
+    "image_raw": null
+  },
+  {
+    "external_id": "927",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "In welke richting kunt u vertraging verwachten? 904",
+    "image_raw": null
+  },
+  {
+    "external_id": "928",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 905",
+    "image_raw": null
+  },
+  {
+    "external_id": "929",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U rijdt hier 25 km/u mag dat? 906",
+    "image_raw": null
+  },
+  {
+    "external_id": "930",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor landbouwtractoren? 907",
+    "image_raw": null
+  },
+  {
+    "external_id": "931",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 908",
+    "image_raw": null
+  },
+  {
+    "external_id": "932",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 909",
+    "image_raw": null
+  },
+  {
+    "external_id": "933",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U parkeert hier en gebruikt daarvoor alleen uw parkeerschijf, is dat verboden? 910",
+    "image_raw": null
+  },
+  {
+    "external_id": "934",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt hier rechtsaf slaan, mag dat? 911",
+    "image_raw": null
+  },
+  {
+    "external_id": "935",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Geeft dit bord een verplichte rijrichting aan? 912",
+    "image_raw": null
+  },
+  {
+    "external_id": "936",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Nadert u hier een spoorwegovergang met een dubbel spoor? 913",
+    "image_raw": null
+  },
+  {
+    "external_id": "937",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U heeft verkeersborden te laat opgemerkt en wilt hier keren, mag dat? 914",
+    "image_raw": null
+  },
+  {
+    "external_id": "938",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U heeft verkeersborden te laat opgemerkt en wilt hier keren, mag dat? 915",
+    "image_raw": null
+  },
+  {
+    "external_id": "939",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Kunt u hier fietsers met trap ondersteuning verwachten? 916",
+    "image_raw": null
+  },
+  {
+    "external_id": "940",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord kunt u verwachten dat er bij slecht weer tegenliggers op uw weghelft komen?  917",
+    "image_raw": null
+  },
+  {
+    "external_id": "941",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet u hier vrachtauto\u2019s verwachten? 918",
+    "image_raw": null
+  },
+  {
+    "external_id": "942",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welke rotonde nadert u bij het zien van deze markering? 919",
+    "image_raw": null
+  },
+  {
+    "external_id": "943",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U nadert een geel stoplicht stapvoets, moet u stoppen? 921",
+    "image_raw": null
+  },
+  {
+    "external_id": "944",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De stoplichten zijn buiten werking en het gele licht knippert. Moet u de fietser voor laten gaan? 922",
+    "image_raw": null
+  },
+  {
+    "external_id": "945",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor een afgesloten rijstrook? 923",
+    "image_raw": null
+  },
+  {
+    "external_id": "946",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet u hier gaan ritsen? 924",
+    "image_raw": null
+  },
+  {
+    "external_id": "947",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De verkeersregelaar geeft hier een stopteken aan het verkeer dat hem: 925",
+    "image_raw": null
+  },
+  {
+    "external_id": "948",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De verkeersregelaar geeft hier een stopteken aan verkeer dat hem: 926",
+    "image_raw": null
+  },
+  {
+    "external_id": "949",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De verkeersregelaar geeft hier een stopteken aan het verkeer dat hem: 927",
+    "image_raw": null
+  },
+  {
+    "external_id": "950",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De verkeersregelaar geeft hier een stopteken aan het verkeer dat hem: 928",
+    "image_raw": null
+  },
+  {
+    "external_id": "951",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De verkeersregelaar geeft hier een teken aan het verkeer om: 929",
+    "image_raw": null
+  },
+  {
+    "external_id": "952",
+    "category": "Wetgeving",
+    "text": "Soms wordt het verkeer geregeld door een verkeersregelaar. Moet u de aanwijzingen van deze personen volgen? 930",
+    "image_raw": null
+  },
+  {
+    "external_id": "953",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt linksaf, mag u doorrijden? 931",
+    "image_raw": null
+  },
+  {
+    "external_id": "954",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt linksaf, mag u doorrijden? 932",
+    "image_raw": null
+  },
+  {
+    "external_id": "955",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt linksaf, mag u doorrijden? 933",
+    "image_raw": null
+  },
+  {
+    "external_id": "956",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt rechtdoor, moet u stoppen? 934",
+    "image_raw": null
+  },
+  {
+    "external_id": "957",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "De douane-ambtenaar geeft u een teken tot stoppen. Wanneer moet u daar gevolg aan geven? 935",
+    "image_raw": null
+  },
+  {
+    "external_id": "958",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Op een kruispunt wilt u linksaf, bij welk verkeerslicht moet u extra rekening houden met tegenliggers? 936",
+    "image_raw": null
+  },
+  {
+    "external_id": "959",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Op een kruispunt wilt u linksaf, bij welk verkeerslicht hoeft u geen tegenliggers te verwachten? 937",
+    "image_raw": null
+  },
+  {
+    "external_id": "960",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Aan welke zijde van de rijbaan treft u de rode reflectoren aan? 939",
+    "image_raw": null
+  },
+  {
+    "external_id": "961",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welke wegmarkering is bedoeld om u te waarschuwen voor een veranderende wegsituatie? 940",
+    "image_raw": null
+  },
+  {
+    "external_id": "562",
+    "category": "Gebruik van de weg",
+    "text": "Moet u hier bromfietsers op de rijbaan verwachten? 535",
+    "image_raw": null
+  },
+  {
+    "external_id": "563",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U moet wachten om tegenliggers voor te laten gaan. Wat is de meest veilige stand van uw voorwielen? 536",
+    "image_raw": null
+  },
+  {
+    "external_id": "564",
+    "category": "Wetgeving",
+    "text": "Wie mogen binnen een erf de weg over de volle breedte gebruiken? 537",
+    "image_raw": null
+  },
+  {
+    "external_id": "565",
+    "category": "Gebruik van de weg",
+    "text": "U wilt rechtsaf, mag u hier nog van rijstrook wisselen? 538",
+    "image_raw": null
+  },
+  {
+    "external_id": "566",
+    "category": "Gebruik van de weg",
+    "text": "U wilt rechtdoor, moet u hier van rijstrook wisselen? 539",
+    "image_raw": null
+  },
+  {
+    "external_id": "567",
+    "category": "Gebruik van de weg",
+    "text": "U wilt linksaf, moet u deze rijstrook blijven gebruiken tot u af kunt slaan? 540",
+    "image_raw": null
+  },
+  {
+    "external_id": "568",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U neemt de rotonde driekwart rond, sorteert u zo goed voor? 541",
+    "image_raw": null
+  },
+  {
+    "external_id": "569",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U neemt de derde afslag, sorteert u zo goed voor? 542",
+    "image_raw": null
+  },
+  {
+    "external_id": "570",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Waarvan is de beslissing om in te halen afhankelijk? 544",
+    "image_raw": null
+  },
+  {
+    "external_id": "571",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U haalt hier de fietser en bromfietser in, mag dat? 545",
+    "image_raw": null
+  },
+  {
+    "external_id": "572",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "De auto voor u rijdt 70 km per uur. Mag u nu inhalen? 546",
+    "image_raw": null
+  },
+  {
+    "external_id": "573",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U haalt hier de fietser en bromfietser in, mag dat? 547",
+    "image_raw": null
+  },
+  {
+    "external_id": "574",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Wanneer mag een voertuig voor een voetgangersoversteekplaats worden ingehaald? 548",
+    "image_raw": null
+  },
+  {
+    "external_id": "575",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U haalt de vrachtwagen zo in, mag dat? 549",
+    "image_raw": null
+  },
+  {
+    "external_id": "576",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "De auto voor u blijft met lage snelheid op de linkerrijstrook rijden. U wilt inhalen, wat moet u doen? 550",
+    "image_raw": null
+  },
+  {
+    "external_id": "577",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt inhalen, mag dat? 551",
+    "image_raw": null
+  },
+  {
+    "external_id": "578",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U verlaat de autosnelweg en haalt rechts in, mag dat? 552",
+    "image_raw": null
+  },
+  {
+    "external_id": "579",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U haalt hier in, mag dat? 553",
+    "image_raw": null
+  },
+  {
+    "external_id": "580",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U haalt de file hier rechts in, mag dat? 554",
+    "image_raw": null
+  },
+  {
+    "external_id": "581",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U haalt hier rechts in, mag dat? 555",
+    "image_raw": null
+  },
+  {
+    "external_id": "582",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Mag u de tram hier rechts inhalen? 556",
+    "image_raw": null
+  },
+  {
+    "external_id": "583",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier rechts inhalen, mag dat? 557",
+    "image_raw": null
+  },
+  {
+    "external_id": "584",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Hoe mag u op deze rotonde inhalen? 558",
+    "image_raw": null
+  },
+  {
+    "external_id": "585",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Je wilt van rijstrook wisselen. Moet je rekening houden met bestuurders die je rechts inhalen? 559",
+    "image_raw": null
+  },
+  {
+    "external_id": "586",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Mag je hier rechts inhalen? 560",
+    "image_raw": null
+  },
+  {
+    "external_id": "587",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt de motor hier inhalen, mag dat? 561",
+    "image_raw": null
+  },
+  {
+    "external_id": "588",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U haalt de bromfietser hier in, mag dat? 562",
+    "image_raw": null
+  },
+  {
+    "external_id": "589",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U haalt hier in, mag dat? 563",
+    "image_raw": null
+  },
+  {
+    "external_id": "590",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U haalt de motor zo in, mag dat? 564",
+    "image_raw": null
+  },
+  {
+    "external_id": "591",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U haalt de bromfietsers hier in, mag dat? 565",
+    "image_raw": null
+  },
+  {
+    "external_id": "592",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt hier de tractor inhalen, mag dat? 566",
+    "image_raw": null
+  },
+  {
+    "external_id": "593",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wilt hier inhalen, mag dat? 567",
+    "image_raw": null
+  },
+  {
+    "external_id": "594",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u hier inhalen? 568",
+    "image_raw": null
+  },
+  {
+    "external_id": "595",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u hier inhalen? 569",
+    "image_raw": null
+  },
+  {
+    "external_id": "596",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "In welke situatie mag u inhalen? 570",
+    "image_raw": null
+  },
+  {
+    "external_id": "597",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Welke bestuurders mogen u hier van rechts inhalen? 571",
+    "image_raw": null
+  },
+  {
+    "external_id": "598",
+    "category": "Wetgeving",
+    "text": "Mag u hier een brommobiel inhalen? 572",
+    "image_raw": null
+  },
+  {
+    "external_id": "599",
+    "category": "Wetgeving",
+    "text": "Mag u hier een vrachtauto inhalen? 573",
+    "image_raw": null
+  },
+  {
+    "external_id": "600",
+    "category": "Wetgeving",
+    "text": "U haalt hier in, mag dat? 574",
+    "image_raw": null
+  },
+  {
+    "external_id": "601",
+    "category": "Wetgeving",
+    "text": "U wilt hier de vrachtwagen inhalen, mag dat? 575",
+    "image_raw": null
+  },
+  {
+    "external_id": "602",
+    "category": "Wetgeving",
+    "text": "U wilt hier inhalen, wat moet u doen? 576",
+    "image_raw": null
+  },
+  {
+    "external_id": "603",
+    "category": "Wetgeving",
+    "text": "Bij welk bord mag u een vrachtauto inhalen? 577",
+    "image_raw": null
+  },
+  {
+    "external_id": "604",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier inhalen, mag dat? 578",
+    "image_raw": null
+  },
+  {
+    "external_id": "605",
+    "category": "Wetgeving",
+    "text": "Wat is de toegestane maximum snelheid op deze weg voor landbouwtrekkers? 580",
+    "image_raw": null
+  },
+  {
+    "external_id": "606",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane snelheid op deze weg? 581",
+    "image_raw": null
+  },
+  {
+    "external_id": "607",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane snelheid op deze weg? 582",
+    "image_raw": null
+  },
+  {
+    "external_id": "608",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane snelheid op deze weg buiten de bebouwde kom? 583",
+    "image_raw": null
+  },
+  {
+    "external_id": "609",
+    "category": "Wetgeving",
+    "text": "U rijdt hier 30 km per uur, mag dat? 584",
+    "image_raw": null
+  },
+  {
+    "external_id": "610",
+    "category": "Wetgeving",
+    "text": "Wat is uw toegestane snelheid op deze weg? 585",
+    "image_raw": null
+  },
+  {
+    "external_id": "611",
+    "category": "Wetgeving",
+    "text": "Hoeveel kilometer per uur mag je hier maximaal rijden? 586",
+    "image_raw": null
+  },
+  {
+    "external_id": "312",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt op een besneeuwde of natte weg, wat gebeurt er met de remweg?",
+    "image_raw": null
+  },
+  {
+    "external_id": "313",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt op een oud wegdek, wat gebeurt er met de remweg?",
+    "image_raw": null
+  },
+  {
+    "external_id": "314",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt op een nieuw wegdek, wat gebeurt er met de remweg?",
+    "image_raw": null
+  },
+  {
+    "external_id": "315",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar moet je hier rekening mee houden? 311",
+    "image_raw": null
+  },
+  {
+    "external_id": "316",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Moet u er rekening mee houden dat de remweg van een vrachtauto langer is dan bij een personenauto?",
+    "image_raw": null
+  },
+  {
+    "external_id": "317",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Na een ongeval heeft de fietser een hevig bloedende wond. U heeft alleen een kledingstuk bij de hand. Drukt u die op de wond om de bloeding te stelpen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "318",
+    "category": "Wetgeving",
+    "text": "U heeft pech, mag u de gevarendriehoek op 5 meter afstand plaatsen? 315",
+    "image_raw": null
+  },
+  {
+    "external_id": "319",
+    "category": "Wetgeving",
+    "text": "U heeft pech, mag u de gevarendriehoek op deze afstand plaatsen? 316",
+    "image_raw": null
+  },
+  {
+    "external_id": "320",
+    "category": "Wetgeving",
+    "text": "Op welke afstand van het voertuig moet in bepaalde gevallen de gevarendriehoek geplaatst worden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "321",
+    "category": "Wetgeving",
+    "text": "U staat hier met pech en hebt uw waarschuwingslichten aan. Moet u ook een gevarendriehoek plaatsen? 318",
+    "image_raw": null
+  },
+  {
+    "external_id": "322",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt op de snelweg en krijgt een lekke band, wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "323",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je hebt autotechniek, mag je hier stoppen? 320",
+    "image_raw": null
+  },
+  {
+    "external_id": "324",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent betrokken bij een zwaar ongeval. Moet u uw auto direct verplaatsen om de doorstroming te bevorderen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "325",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Na een ongeval is de stand van het been van de fietser wat vreemd. Legt u het been recht neer?",
+    "image_raw": null
+  },
+  {
+    "external_id": "326",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Na een aanrijding klaagt de bestuurder over pijn in zijn nek. Wat is in het algemeen verstandig?",
+    "image_raw": null
+  },
+  {
+    "external_id": "327",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat moet u doen als u een slachtoffer treft met hevige rugpijn?",
+    "image_raw": null
+  },
+  {
+    "external_id": "329",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat is het algemeen alarmnummer in Nederland?",
+    "image_raw": null
+  },
+  {
+    "external_id": "330",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft autopech en staat op de vluchtstrook, wat is in het algemeen de meest veilige plek voor de bestuurder?",
+    "image_raw": null
+  },
+  {
+    "external_id": "332",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U komt als eerst bij een ongeval, wat doet u als eerst?",
+    "image_raw": null
+  },
+  {
+    "external_id": "333",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Moet men na een ongeval de plaats van het ongeval direct beveiligen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "334",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat is de belangrijkste oorzaak van ongevallen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "335",
+    "category": "Wetgeving",
+    "text": "Hoeveel procent van de verkeersongevallen wordt veroorzaakt door vermoeidheid?",
+    "image_raw": null
+  },
+  {
+    "external_id": "336",
+    "category": "Wetgeving",
+    "text": "U bent te uw auto te water geraakt. Wanneer probeert u de auto te verlaten?",
+    "image_raw": null
+  },
+  {
+    "external_id": "337",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent hier gestopt om een ernstig ongeval te melden, mag dat? 333",
+    "image_raw": null
+  },
+  {
+    "external_id": "338",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U wordt gebeld en stopt hier om de telefoon te beantwoorden, mag dat? 334",
+    "image_raw": null
+  },
+  {
+    "external_id": "339",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Mag u hier parkeren? 335",
+    "image_raw": null
+  },
+  {
+    "external_id": "340",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U parkeert hier mag dat? 336",
+    "image_raw": null
+  },
+  {
+    "external_id": "341",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft pech en wacht op de wegenwacht, staat u hier veilig?",
+    "image_raw": null
+  },
+  {
+    "external_id": "342",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft pech en wacht op de wegenwacht, staat u hier veilig? 338",
+    "image_raw": null
+  },
+  {
+    "external_id": "343",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U staat hier met pech en blijft in de auto op hulp zitten wachten, is dit de meest veilige plaats om te wachten? 339",
+    "image_raw": null
+  },
+  {
+    "external_id": "344",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft pech, wat is in het algemeen de meest veilige plek voor de bestuurder?",
+    "image_raw": null
+  },
+  {
+    "external_id": "345",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Een bewusteloos slachtoffer begint te braken, wat is de beste lichaamshouding? 341",
+    "image_raw": null
+  },
+  {
+    "external_id": "346",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Bij een aanrijding heeft u lichte schade aan de voorbumper. Wat doet u om de schade af te handelen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "347",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent betrokken bij een ongeval. Wanneer moet u uw identiteit kenbaar maken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "348",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent betrokken bij een verkeersongeval. Wanneer moet u de identiteit van u of uw motorvoertuig kenbaar maken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "349",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent betrokken bij een verkeersongeval met alleen schade aan de auto van de ander. Moet u uw identiteit kenbaar maken bij de tegenpartij?",
+    "image_raw": null
+  },
+  {
+    "external_id": "350",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wie mag de plaats van het ongeval niet verlaten voor hij zich heeft ge\u00efdentificeerd?",
+    "image_raw": null
+  },
+  {
+    "external_id": "351",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt in een tunnel zonder vluchtstrook. Bijna aan het einde van de tunnel komt er rook onder de motorkap vandaan. Wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "352",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Na een verkeersongeval ligt iemand bewusteloos en rustig ademend op de grond, wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "353",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft pech, maakt u zo goed gebruik van de vluchtstrook? 349",
+    "image_raw": null
+  },
+  {
+    "external_id": "354",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft pech, staat u hier veilig opgesteld? 350",
+    "image_raw": null
+  },
+  {
+    "external_id": "355",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent betrokken bij een aanrijding met gewonden, mag u de slachtoffers wat te drinken geven?",
+    "image_raw": null
+  },
+  {
+    "external_id": "356",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U bent met uw auto te water geraakt. U besluit een ruit in te slaan, wat is de beste keuze?",
+    "image_raw": null
+  },
+  {
+    "external_id": "357",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar kunt u de veiligheidshamer het beste plaatsen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "358",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf. Moet de voetganger voor laten gaan? 355",
+    "image_raw": null
+  },
+  {
+    "external_id": "359",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de voetganger voor laten gaan? 356",
+    "image_raw": null
+  },
+  {
+    "external_id": "360",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de voetganger voor laten gaan? 357",
+    "image_raw": null
+  },
+  {
+    "external_id": "361",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de voetganger voor laten gaan? 358",
+    "image_raw": null
+  },
+  {
+    "external_id": "1062",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 63",
+    "image_raw": null
+  },
+  {
+    "external_id": "1063",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 64",
+    "image_raw": null
+  },
+  {
+    "external_id": "1064",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 65",
+    "image_raw": null
+  },
+  {
+    "external_id": "1065",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 66",
+    "image_raw": null
+  },
+  {
+    "external_id": "1066",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 67",
+    "image_raw": null
+  },
+  {
+    "external_id": "1067",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 68",
+    "image_raw": null
+  },
+  {
+    "external_id": "212",
+    "category": "Wetgeving",
+    "text": "U gebruikt uw telefoon niet tijdens het autorijden. Maar u houdt hem wel vast in uw hand, mag dat?",
+    "image_raw": null
+  },
+  {
+    "external_id": "213",
+    "category": "Wetgeving",
+    "text": "U belt in uw auto via een carkit, wat gebeurt er?",
+    "image_raw": null
+  },
+  {
+    "external_id": "214",
+    "category": "Wetgeving",
+    "text": "Kunnen kleine hoeveelheden alcohol de rijvaardigheid be\u00efnvloeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "215",
+    "category": "Wetgeving",
+    "text": "De bestuurder van deze auto is 20 jaar oud. Wat is de maximale toegestane waarde van het alcoholgehalte in het bloed?",
+    "image_raw": null
+  },
+  {
+    "external_id": "216",
+    "category": "Wetgeving",
+    "text": "Mag je fietsen als je 0,8 promille alcohol in je bloed hebt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "217",
+    "category": "Wetgeving",
+    "text": "Wordt de rijvaardigheid al be\u00efnvloed na het drinken van 1 glas bier?",
+    "image_raw": null
+  },
+  {
+    "external_id": "218",
+    "category": "Wetgeving",
+    "text": "Hoe lang duurt het voordat alcohol van een standaard glas alcoholhoudende drank in je bloed is afgebroken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "219",
+    "category": "Wetgeving",
+    "text": "Pim drinkt in 2 uur 3 glazen bier, mag hij zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "220",
+    "category": "Wetgeving",
+    "text": "Aan wie kan de educatieve maatregel gedrag en verkeer (EMG) worden opgelegd?",
+    "image_raw": null
+  },
+  {
+    "external_id": "221",
+    "category": "Wetgeving",
+    "text": "U moet de cursus maatregel gedrag en verkeer volgen, moet u de kosten hiervan zelf betalen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "222",
+    "category": "Wetgeving",
+    "text": "Wanneer bent u een beginnend bestuurder?",
+    "image_raw": null
+  },
+  {
+    "external_id": "223",
+    "category": "Wetgeving",
+    "text": "Bevat een glas pils minder alchohol dan een glas jenever?",
+    "image_raw": null
+  },
+  {
+    "external_id": "224",
+    "category": "Wetgeving",
+    "text": "Wat kan de afbraak van alcohol in uw bloed versnellen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "225",
+    "category": "Wetgeving",
+    "text": "Maakt de werking van koffie de versuffende werking van medicijnen ongedaan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "226",
+    "category": "Wetgeving",
+    "text": "U gebruikt medicijnen, wanneer mag u de auto besturen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "227",
+    "category": "Wetgeving",
+    "text": "Slaap en kalmeringsmiddelen kunnen de rijvaardigheid be\u00efnvloeden, geldt dit ook voor andere geneesmiddelen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "228",
+    "category": "Wetgeving",
+    "text": "Kunnen medicijnen die voorzien zijn van een gele sticker de rijvaardigheid be\u00efnvloeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "229",
+    "category": "Wetgeving",
+    "text": "Kan het gebruik van oogdruppels uw gezichtsvermogen tijdelijk be\u00efnvloeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "231",
+    "category": "Wetgeving",
+    "text": "Welke stelling is juist?",
+    "image_raw": null
+  },
+  {
+    "external_id": "232",
+    "category": "Wetgeving",
+    "text": "Welke geneesmiddelen hebben invloed op de rijvaardigheid?",
+    "image_raw": null
+  },
+  {
+    "external_id": "233",
+    "category": "Wetgeving",
+    "text": "Wanneer neemt de vermoeidheid toe tijdens het autorijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "234",
+    "category": "Wetgeving",
+    "text": "Welke invloed heeft de vermoeidheid op de bestuurder?",
+    "image_raw": null
+  },
+  {
+    "external_id": "235",
+    "category": "Wetgeving",
+    "text": "Hoe kun je vermoeidheid tijdens het autorijden tegengaan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "236",
+    "category": "Wetgeving",
+    "text": "Hoeveel rust moet je nemen na 2 uur rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "237",
+    "category": "Voertuigkennis",
+    "text": "Uw auto heeft alleen een linker buitenspiegel, mag u zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "238",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt overdag en het begint te sneeuwen, wat kunt u het beste doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "239",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wanneer begint het te vriezen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "240",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Het begint te sneeuwen, waarmee moet rekening worden gehouden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "241",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Het is 2 graden boven 0, waar is de kans op gladheid door ijsvorming het grootst?",
+    "image_raw": null
+  },
+  {
+    "external_id": "242",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Het begint te vriezen, waar zal het als eerst glad worden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "244",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Jonge beginnende bestuurders zijn vaker bij een ongeval betrokken. Wat is de belangrijkste reden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "245",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt op de autosnelweg en ziet ver voor u een stilstaande file. Wat is het meest veilig?",
+    "image_raw": null
+  },
+  {
+    "external_id": "246",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Op welke wegen is het risico op ongelukken het grootst?",
+    "image_raw": null
+  },
+  {
+    "external_id": "247",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar vinden de meeste ongevallen plaats tussen motorrijders en personenauto\u2019s?",
+    "image_raw": null
+  },
+  {
+    "external_id": "248",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Bij welke weg kan je kruisende bestuurders verwachten? 244",
+    "image_raw": null
+  },
+  {
+    "external_id": "249",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke van deze factoren zijn van invloed op de stopafstand?",
+    "image_raw": null
+  },
+  {
+    "external_id": "251",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "In een bocht verhoogt u de snelheid, wat gebeurt er met de centrifugale kracht?",
+    "image_raw": null
+  },
+  {
+    "external_id": "252",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt in deze bocht een keer met 30 km/u en een keer met 60 km/u. Wat zijn de gevolgen voor de centrifugale kracht?",
+    "image_raw": null
+  },
+  {
+    "external_id": "253",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar moet je rekening mee houden als je de snelheid verdubbelt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "254",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "De vrachtwagen rijdt langzaam achteruit, wat doet u? 250",
+    "image_raw": null
+  },
+  {
+    "external_id": "255",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "De auto wil achteruit rijden, welke verlichting gaat er branden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "256",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U wordt hier ingehaald door een vrachtwagen, wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "257",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U wilt de snelweg oprijden, wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "258",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U wilt linksaf wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "259",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "De vrachtwagen wil afslaan, wat doet u? 255",
+    "image_raw": null
+  },
+  {
+    "external_id": "260",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke volgorde is hier het veiligst? 256",
+    "image_raw": null
+  },
+  {
+    "external_id": "261",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier 80 km/uur, wat doet u? 257",
+    "image_raw": null
+  },
+  {
+    "external_id": "362",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de voetganger voor laten gaan? 359",
+    "image_raw": null
+  },
+  {
+    "external_id": "363",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 360",
+    "image_raw": null
+  },
+  {
+    "external_id": "364",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 361",
+    "image_raw": null
+  },
+  {
+    "external_id": "365",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 362",
+    "image_raw": null
+  },
+  {
+    "external_id": "366",
+    "category": "Voorrang en voor laten gaan",
+    "text": "In welke situatie moet u de voetgangers voor laten gaan? 363",
+    "image_raw": null
+  },
+  {
+    "external_id": "367",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetganger voor laten gaan? 364",
+    "image_raw": null
+  },
+  {
+    "external_id": "368",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor. In welke situatie moet u de voetganger voor laten gaan? 365",
+    "image_raw": null
+  },
+  {
+    "external_id": "369",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de voetganger voor laten gaan? 366",
+    "image_raw": null
+  },
+  {
+    "external_id": "370",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetganger voor laten gaan? 367",
+    "image_raw": null
+  },
+  {
+    "external_id": "371",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetganger voor laten gaan? 368",
+    "image_raw": null
+  },
+  {
+    "external_id": "372",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetganger voor laten gaan? 369",
+    "image_raw": null
+  },
+  {
+    "external_id": "373",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 370",
+    "image_raw": null
+  },
+  {
+    "external_id": "374",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de bromfietser voor laten gaan? 371",
+    "image_raw": null
+  },
+  {
+    "external_id": "375",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de bromfietser voor laten gaan? 372",
+    "image_raw": null
+  },
+  {
+    "external_id": "376",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de motor voor laten gaan? 373",
+    "image_raw": null
+  },
+  {
+    "external_id": "377",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 374",
+    "image_raw": null
+  },
+  {
+    "external_id": "378",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 375",
+    "image_raw": null
+  },
+  {
+    "external_id": "379",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 376",
+    "image_raw": null
+  },
+  {
+    "external_id": "380",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de motor voor laten gaan? 377",
+    "image_raw": null
+  },
+  {
+    "external_id": "381",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 378",
+    "image_raw": null
+  },
+  {
+    "external_id": "382",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de auto voor laten gaan? 379",
+    "image_raw": null
+  },
+  {
+    "external_id": "383",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de fietser voor laten gaan? 380",
+    "image_raw": null
+  },
+  {
+    "external_id": "384",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de snorfietser voor laten gaan? 381",
+    "image_raw": null
+  },
+  {
+    "external_id": "385",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de snorfietser voor laten gaan? 382",
+    "image_raw": null
+  },
+  {
+    "external_id": "386",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de auto voor laten gaan? 383",
+    "image_raw": null
+  },
+  {
+    "external_id": "387",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de auto voor laten gaan? 384",
+    "image_raw": null
+  },
+  {
+    "external_id": "388",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de bromfietser voor laten gaan? 385",
+    "image_raw": null
+  },
+  {
+    "external_id": "389",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 386",
+    "image_raw": null
+  },
+  {
+    "external_id": "390",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 387",
+    "image_raw": null
+  },
+  {
+    "external_id": "391",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de bromfietser voor laten gaan? 388",
+    "image_raw": null
+  },
+  {
+    "external_id": "392",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechsaf, moet u de fietser voor laten gaan? 389",
+    "image_raw": null
+  },
+  {
+    "external_id": "393",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de fietser voor laten gaan? 390",
+    "image_raw": null
+  },
+  {
+    "external_id": "394",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u debfietser voor laten gaan? 391",
+    "image_raw": null
+  },
+  {
+    "external_id": "395",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de bromfietser voor laten gaan? 392",
+    "image_raw": null
+  },
+  {
+    "external_id": "396",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u het militaire voertuig voor laten gaan? 393",
+    "image_raw": null
+  },
+  {
+    "external_id": "397",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 394",
+    "image_raw": null
+  },
+  {
+    "external_id": "398",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 395",
+    "image_raw": null
+  },
+  {
+    "external_id": "399",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de fietser voor laten gaan? 396",
+    "image_raw": null
+  },
+  {
+    "external_id": "400",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de auto voor laten gaan? 397",
+    "image_raw": null
+  },
+  {
+    "external_id": "401",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de ruiter voor laten gaan? 398",
+    "image_raw": null
+  },
+  {
+    "external_id": "402",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 399",
+    "image_raw": null
+  },
+  {
+    "external_id": "403",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de bromfietser voor laten gaan? 400",
+    "image_raw": null
+  },
+  {
+    "external_id": "404",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 401",
+    "image_raw": null
+  },
+  {
+    "external_id": "405",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 402",
+    "image_raw": null
+  },
+  {
+    "external_id": "406",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de motor voor laten gaan? 403",
+    "image_raw": null
+  },
+  {
+    "external_id": "407",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de snorfietser voor laten gaan? 404",
+    "image_raw": null
+  },
+  {
+    "external_id": "408",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de bromfietser voor laten gaan? 405",
+    "image_raw": null
+  },
+  {
+    "external_id": "409",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de fietser voor laten gaan? 406",
+    "image_raw": null
+  },
+  {
+    "external_id": "410",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 407",
+    "image_raw": null
+  },
+  {
+    "external_id": "411",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de snorfietser voor laten gaan? 408",
+    "image_raw": null
+  },
+  {
+    "external_id": "962",
+    "category": "Wetgeving",
+    "text": "Voor welke maximumsnelheid is deze weg ingericht? 941",
+    "image_raw": null
+  },
+  {
+    "external_id": "963",
+    "category": "Wetgeving",
+    "text": "Welk deel van de weg wordt rijstrook genoemd? 942",
+    "image_raw": null
+  },
+  {
+    "external_id": "964",
+    "category": "Wetgeving",
+    "text": "Welk deel van de weg wordt rijbaan genoemd? 943",
+    "image_raw": null
+  },
+  {
+    "external_id": "965",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U blijft de snelweg volgen, blijft deze uit minimaal twee rijstroken bestaan? 944",
+    "image_raw": null
+  },
+  {
+    "external_id": "966",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Op welke rijstrook is het risico op spoorvorming het grootst? 945",
+    "image_raw": null
+  },
+  {
+    "external_id": "967",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Wanneer mag het verdrijvingsvlak worden gebruikt? 946",
+    "image_raw": null
+  },
+  {
+    "external_id": "968",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Gaan verkeerstekens op de weg boven verkeerslichten die de voorrang regelen? 947",
+    "image_raw": null
+  },
+  {
+    "external_id": "969",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Positieve wegverkanting in een bocht heeft: 948",
+    "image_raw": null
+  },
+  {
+    "external_id": "970",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "De verkeerslichten zijn buiten werking, moet u de auto voor laten gaan? 949",
+    "image_raw": null
+  },
+  {
+    "external_id": "971",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Nadert u hier het einde van de autosnelweg? 950",
+    "image_raw": null
+  },
+  {
+    "external_id": "972",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Kunt u dit bord ook op een autoweg tegenkomen? 951",
+    "image_raw": null
+  },
+  {
+    "external_id": "973",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Mogen hier landbouwvoertuigen rijden? 952",
+    "image_raw": null
+  },
+  {
+    "external_id": "974",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Kunt u hier landbouwtrekkers op deze weg verwachten? 953",
+    "image_raw": null
+  },
+  {
+    "external_id": "975",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Kunt u op deze weg brommobielen verwachten? 954",
+    "image_raw": null
+  },
+  {
+    "external_id": "976",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U wilt hier rechtdoor rijden, mag dat? 955",
+    "image_raw": null
+  },
+  {
+    "external_id": "977",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Moet u rekening houden met invoegend verkeer na het viaduct? 956",
+    "image_raw": null
+  },
+  {
+    "external_id": "978",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welke markering moet u alle bestuurders op de kruisende weg voor laten gaan? 957",
+    "image_raw": null
+  },
+  {
+    "external_id": "979",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar waarschuwt dit teken voor? 958",
+    "image_raw": null
+  },
+  {
+    "external_id": "980",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat is de kleur van tijdelijke markeringen op de weg? 959",
+    "image_raw": null
+  },
+  {
+    "external_id": "981",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Op welke lijnen moet u nu letten? 960",
+    "image_raw": null
+  },
+  {
+    "external_id": "982",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt naar Rotterdam. Aan welke kant van de blokmarkering mag u rijden? 961",
+    "image_raw": null
+  },
+  {
+    "external_id": "983",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U wordt gebeld tijdens het rijden, wat is het veiligst? 962",
+    "image_raw": null
+  },
+  {
+    "external_id": "984",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Moet u hier rechtdoor rijden? 963",
+    "image_raw": null
+  },
+  {
+    "external_id": "985",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u hier naar links? 964",
+    "image_raw": null
+  },
+  {
+    "external_id": "986",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Tot hoeveel procent meer brandstofverbruik leidt een te lage bandenspanning van 0,5 bar? 965",
+    "image_raw": null
+  },
+  {
+    "external_id": "987",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Is de losbreekkabel op deze manier goed bevestigd om de karabijnkogel? 967",
+    "image_raw": null
+  },
+  {
+    "external_id": "988",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U heeft laagstaande zon, wie kan u niet goed zien? 968",
+    "image_raw": null
+  },
+  {
+    "external_id": "989",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u hier 90 km/u rijden? 969",
+    "image_raw": null
+  },
+  {
+    "external_id": "990",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Waar moet u nu op letten? 970",
+    "image_raw": null
+  },
+  {
+    "external_id": "991",
+    "category": "Wetgeving",
+    "text": "Iemand op skeelers, is dat een bestuurder? 971",
+    "image_raw": null
+  },
+  {
+    "external_id": "992",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Het is +2 graden, is er kans op ijsvorming? 972",
+    "image_raw": null
+  },
+  {
+    "external_id": "993",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u in dichte mist 130 km/u rijden? 973",
+    "image_raw": null
+  },
+  {
+    "external_id": "994",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Hoe moet de gordel zitten? 974",
+    "image_raw": null
+  },
+  {
+    "external_id": "995",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U ziet dit bord, mag u nu al ritsen? 975",
+    "image_raw": null
+  },
+  {
+    "external_id": "996",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Als het tankpistool klikt, is de tank dan vol? 976",
+    "image_raw": null
+  },
+  {
+    "external_id": "997",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Heeft een bredere auto ook bredere banden nodig? 977",
+    "image_raw": null
+  },
+  {
+    "external_id": "998",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u hier op het zebrapad staan? 978",
+    "image_raw": null
+  },
+  {
+    "external_id": "999",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Waar ligt hier het gevaar? 979",
+    "image_raw": null
+  },
+  {
+    "external_id": "1000",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Mag u hier de fietser inhalen? 980",
+    "image_raw": null
+  },
+  {
+    "external_id": "1001",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 2",
+    "image_raw": null
+  },
+  {
+    "external_id": "1002",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 3",
+    "image_raw": null
+  },
+  {
+    "external_id": "1003",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 4",
+    "image_raw": null
+  },
+  {
+    "external_id": "1004",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 5",
+    "image_raw": null
+  },
+  {
+    "external_id": "1005",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 6",
+    "image_raw": null
+  },
+  {
+    "external_id": "1006",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 7",
+    "image_raw": null
+  },
+  {
+    "external_id": "1007",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 8",
+    "image_raw": null
+  },
+  {
+    "external_id": "1008",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 9",
+    "image_raw": null
+  },
+  {
+    "external_id": "1009",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 10",
+    "image_raw": null
+  },
+  {
+    "external_id": "1010",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 11",
+    "image_raw": null
+  },
+  {
+    "external_id": "1011",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 12",
+    "image_raw": null
+  },
+  {
+    "external_id": "6",
+    "category": "Wetgeving",
+    "text": "Als de agent je vraagt om mee te werken aan een ademtest, moet je daar dan aan meewerken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "7",
+    "category": "Wetgeving",
+    "text": "Mag u op grond van godsdienstige redenen een ademtest weigeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "8",
+    "category": "Wetgeving",
+    "text": "Bent u verplicht om een verzekering af te sluiten voor uw auto?",
+    "image_raw": null
+  },
+  {
+    "external_id": "9",
+    "category": "Wetgeving",
+    "text": "Wat kan een WA verzekering van een motorrijtuig na een ongeval vergoeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "10",
+    "category": "Wetgeving",
+    "text": "Wat kan een WA-CASCO verzekering van een motorrijtuig na een ongeval vergoeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "11",
+    "category": "Wetgeving",
+    "text": "Wat kan een ALL-RISK verzekering van een motorrijtuig na een ongeval vergoeden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "12",
+    "category": "Wetgeving",
+    "text": "Vanaf welk moment moet jouw auto verzekerd zijn?",
+    "image_raw": null
+  },
+  {
+    "external_id": "13",
+    "category": "Wetgeving",
+    "text": "Jij bent de eigenaar van een auto die je voor langere tijd op de weg parkeert, moet de auto in dit geval verzekerd zijn?",
+    "image_raw": null
+  },
+  {
+    "external_id": "14",
+    "category": "Wetgeving",
+    "text": "Kan een verzekeringsmaatschappij schade verhalen op een bestuurder die alcohol heeft gebruikt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "15",
+    "category": "Wetgeving",
+    "text": "Moet de bestuurder van een personenauto een Europees Schadeformulier bij zich hebben?",
+    "image_raw": null
+  },
+  {
+    "external_id": "16",
+    "category": "Wetgeving",
+    "text": "Wie is er strafbaar als er op de weg een wedstrijd wordt gehouden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "24",
+    "category": "Wetgeving",
+    "text": "Wat is de maximale geldigheidsduur van een rijbewijs?",
+    "image_raw": null
+  },
+  {
+    "external_id": "25",
+    "category": "Wetgeving",
+    "text": "Je rijdt met een fotokopie van je rijbewijs, is dat een geldig document?",
+    "image_raw": null
+  },
+  {
+    "external_id": "26",
+    "category": "Wetgeving",
+    "text": "Wanneer mag je met een fotokopie van je rijbewijs rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "27",
+    "category": "Wetgeving",
+    "text": "U heeft alleen een fotokopie van uw rijbewijs, mag u daarmee gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "28",
+    "category": "Wetgeving",
+    "text": "Welke gegevens staan vermeld op de kentekencard?",
+    "image_raw": null
+  },
+  {
+    "external_id": "29",
+    "category": "Wetgeving",
+    "text": "Staan op de kentekencard ook de gegevens van de laatste APK-Keuring?",
+    "image_raw": null
+  },
+  {
+    "external_id": "30",
+    "category": "Wetgeving",
+    "text": "Moet je het APK-Keuringsbewijs bij je hebben tijdens het rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "31",
+    "category": "Wetgeving",
+    "text": "Wat is de minimumleeftijd voor het besturen van een personenauto bij begeleid rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "32",
+    "category": "Wetgeving",
+    "text": "Je bent 18 jaar en haalt voor het eerst een rijbewijs, hoe lang ben je een beginnend bestuurder?",
+    "image_raw": null
+  },
+  {
+    "external_id": "33",
+    "category": "Wetgeving",
+    "text": "Welk rijbewijs is verreist voor het rijden in deze combinatie?",
+    "image_raw": null
+  },
+  {
+    "external_id": "34",
+    "category": "Wetgeving",
+    "text": "Deze bus is ingericht voor het vervoer van 16 personen, mag u hierin rijden met alleen een rijbewijs B?",
+    "image_raw": null
+  },
+  {
+    "external_id": "35",
+    "category": "Wetgeving",
+    "text": "Hoeveel zitplaatsen mag de bestuurder van een personenauto met rijbewijs B naast zichzelf meenemen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "36",
+    "category": "Wetgeving",
+    "text": "U heeft zojuist uw rijbewijs B gehaald, wat mag u besturen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "37",
+    "category": "Wetgeving",
+    "text": "Heb je een rijbewijs nodig om een Segway te mogen besturen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "38",
+    "category": "Wetgeving",
+    "text": "Wanneer mag je fietsen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "39",
+    "category": "Wetgeving",
+    "text": "Uw rijbewijs is ontzegd, mag u nog in dit voertuig rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "40",
+    "category": "Wetgeving",
+    "text": "De rijbevoegdheid is ontzegd, mag je een bromfiets besturen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "41",
+    "category": "Wetgeving",
+    "text": "Je rijbevoegdheid is ontzegd mag je fietsen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "42",
+    "category": "Wetgeving",
+    "text": "Uw rijbewijs is ontzegd, mag u rijles nemen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "43",
+    "category": "Wetgeving",
+    "text": "U heeft een ontzegging van de rijbevoegdheid, wat mag u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "44",
+    "category": "Wetgeving",
+    "text": "Een bestuurder heeft teveel gedronken. Hoeveel uur krijgt hij maximaal een rijverbod opgelegd?",
+    "image_raw": null
+  },
+  {
+    "external_id": "45",
+    "category": "Wetgeving",
+    "text": "De politie heeft je een rijverbod opgelegd. Welke voertuigen mag je dan nog besturen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "46",
+    "category": "Wetgeving",
+    "text": "De politie controleert u, wat moet u dan laten zien?",
+    "image_raw": null
+  },
+  {
+    "external_id": "47",
+    "category": "Wetgeving",
+    "text": "Ben je verplicht om je rijbewijs ter inzage aan een agent te geven wanneer deze erom vraagt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "48",
+    "category": "Wetgeving",
+    "text": "Jouw kentekenbewijs is niet goed leesbaar, mag je daarmee rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "49",
+    "category": "Wetgeving",
+    "text": "U heeft alleen het rijbewijs B, welke aanhangwagens mag u trekken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "50",
+    "category": "Wetgeving",
+    "text": "U hebt alleen een rijbewijs B. Wat bepaalt dat u met een aanhangwagen mag rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "51",
+    "category": "Wetgeving",
+    "text": "Vanaf welke toegestane maximum massa moet een aanhangwagen een eigen kenteken hebben?",
+    "image_raw": null
+  },
+  {
+    "external_id": "52",
+    "category": "Wetgeving",
+    "text": "Uw aanhangwagen heeft een ledig gewicht van 500 kilogram, moet deze een eigen kenteken hebben?",
+    "image_raw": null
+  },
+  {
+    "external_id": "53",
+    "category": "Wetgeving",
+    "text": "Een aanhangwagen weegt 700 kg en is ongeremd. Waar kun je vinden of je deze aanhangwagen mag trekken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "54",
+    "category": "Wetgeving",
+    "text": "Waar vindt je hoeveel gewicht je op het dak van de auto mag vervoeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "55",
+    "category": "Wetgeving",
+    "text": "Hoeveel bedraagt de maximum toegestane massa van een combinatie die u met rijbewijs B mag besturen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "56",
+    "category": "Wetgeving",
+    "text": "Moet de bestuurder van de gesleepte auto in het bezit zijn van een geldig rijbewijs?",
+    "image_raw": null
+  },
+  {
+    "external_id": "57",
+    "category": "Wetgeving",
+    "text": "U sleept een ander voertuig, hoeveel mag de sleepafstand tussen beide voertuigen maximaal zijn?",
+    "image_raw": null
+  },
+  {
+    "external_id": "58",
+    "category": "Wetgeving",
+    "text": "De afstand tussen beide auto\u2019s is 4 meter, mag u zo gaan slepen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "59",
+    "category": "Wetgeving",
+    "text": "Je wilt zo gaan rijden, mag dat? (Zonder fietsendrager)",
+    "image_raw": null
+  },
+  {
+    "external_id": "60",
+    "category": "Wetgeving",
+    "text": "Moet deze auto met een fietsenrek voorzien van kentekenplaten? (Auto met fietsendrager, vraag 51/52)",
+    "image_raw": null
+  },
+  {
+    "external_id": "61",
+    "category": "Wetgeving",
+    "text": "Mag u met een versleten kenteken rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "62",
+    "category": "Wetgeving",
+    "text": "De verlichting van de kentekenplaat werkt niet, mag je zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "1012",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 13",
+    "image_raw": null
+  },
+  {
+    "external_id": "1013",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 14",
+    "image_raw": null
+  },
+  {
+    "external_id": "1014",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 15",
+    "image_raw": null
+  },
+  {
+    "external_id": "1015",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 16",
+    "image_raw": null
+  },
+  {
+    "external_id": "1016",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 17",
+    "image_raw": null
+  },
+  {
+    "external_id": "1017",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 18",
+    "image_raw": null
+  },
+  {
+    "external_id": "1018",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 19",
+    "image_raw": null
+  },
+  {
+    "external_id": "1019",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 20",
+    "image_raw": null
+  },
+  {
+    "external_id": "1020",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 21",
+    "image_raw": null
+  },
+  {
+    "external_id": "1021",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 22",
+    "image_raw": null
+  },
+  {
+    "external_id": "1022",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 23",
+    "image_raw": null
+  },
+  {
+    "external_id": "1023",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 24",
+    "image_raw": null
+  },
+  {
+    "external_id": "1024",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 25",
+    "image_raw": null
+  },
+  {
+    "external_id": "1025",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 26",
+    "image_raw": null
+  },
+  {
+    "external_id": "1026",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 27",
+    "image_raw": null
+  },
+  {
+    "external_id": "1027",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 28",
+    "image_raw": null
+  },
+  {
+    "external_id": "1028",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 29",
+    "image_raw": null
+  },
+  {
+    "external_id": "1029",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 30",
+    "image_raw": null
+  },
+  {
+    "external_id": "1030",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 31",
+    "image_raw": null
+  },
+  {
+    "external_id": "1031",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 32",
+    "image_raw": null
+  },
+  {
+    "external_id": "1032",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 33",
+    "image_raw": null
+  },
+  {
+    "external_id": "1033",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 34",
+    "image_raw": null
+  },
+  {
+    "external_id": "1034",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 35",
+    "image_raw": null
+  },
+  {
+    "external_id": "1035",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 36",
+    "image_raw": null
+  },
+  {
+    "external_id": "1036",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 37",
+    "image_raw": null
+  },
+  {
+    "external_id": "1037",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 38",
+    "image_raw": null
+  },
+  {
+    "external_id": "1038",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 39",
+    "image_raw": null
+  },
+  {
+    "external_id": "1039",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 40",
+    "image_raw": null
+  },
+  {
+    "external_id": "1040",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 41",
+    "image_raw": null
+  },
+  {
+    "external_id": "1041",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 42",
+    "image_raw": null
+  },
+  {
+    "external_id": "1042",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 43",
+    "image_raw": null
+  },
+  {
+    "external_id": "1043",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 44",
+    "image_raw": null
+  },
+  {
+    "external_id": "1044",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 45",
+    "image_raw": null
+  },
+  {
+    "external_id": "1045",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 46",
+    "image_raw": null
+  },
+  {
+    "external_id": "1046",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 47",
+    "image_raw": null
+  },
+  {
+    "external_id": "1047",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 48",
+    "image_raw": null
+  },
+  {
+    "external_id": "1048",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 49",
+    "image_raw": null
+  },
+  {
+    "external_id": "1049",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 50",
+    "image_raw": null
+  },
+  {
+    "external_id": "1050",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 51",
+    "image_raw": null
+  },
+  {
+    "external_id": "1051",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 52",
+    "image_raw": null
+  },
+  {
+    "external_id": "1052",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 53",
+    "image_raw": null
+  },
+  {
+    "external_id": "1053",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 54",
+    "image_raw": null
+  },
+  {
+    "external_id": "1054",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 55",
+    "image_raw": null
+  },
+  {
+    "external_id": "1055",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 56",
+    "image_raw": null
+  },
+  {
+    "external_id": "1056",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 57",
+    "image_raw": null
+  },
+  {
+    "external_id": "1057",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 58",
+    "image_raw": null
+  },
+  {
+    "external_id": "1058",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 59",
+    "image_raw": null
+  },
+  {
+    "external_id": "1059",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 60",
+    "image_raw": null
+  },
+  {
+    "external_id": "1060",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 61",
+    "image_raw": null
+  },
+  {
+    "external_id": "1061",
+    "category": "Gevaarherkenning",
+    "text": "Vraag 62",
+    "image_raw": null
+  },
+  {
+    "external_id": "762",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Kan de belading invloed hebben op de verlichting van de auto? 740",
+    "image_raw": null
+  },
+  {
+    "external_id": "763",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je rijdt \u2018s nachts met een aanhangwagen. Welke verlichting moet er aan de achterzijde van de aanhangwagen branden? 741",
+    "image_raw": null
+  },
+  {
+    "external_id": "764",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Je ziet geen verkeer naderen, moet je stoppen? 743",
+    "image_raw": null
+  },
+  {
+    "external_id": "765",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Je ziet geen verkeer naderen, moet je stoppen? 735",
+    "image_raw": null
+  },
+  {
+    "external_id": "766",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie moet je bij dit bord voor laten gaan? 745",
+    "image_raw": null
+  },
+  {
+    "external_id": "767",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Welk bord geeft een weg met spoorbomen aan? 746",
+    "image_raw": null
+  },
+  {
+    "external_id": "768",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wordt je hier gewaarschuwd voor een overweg? 747",
+    "image_raw": null
+  },
+  {
+    "external_id": "769",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Welke baken geeft aan dat u over 240 meter een spoorwegovergang tegenkomt? 748",
+    "image_raw": null
+  },
+  {
+    "external_id": "770",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Nader je hier een beveiligde spoorweg? 749",
+    "image_raw": null
+  },
+  {
+    "external_id": "771",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Geeft het rode licht aan dat er een trein aankomt? 750",
+    "image_raw": null
+  },
+  {
+    "external_id": "772",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welke splitsing moet u bestuurders van links verwachten? 751",
+    "image_raw": null
+  },
+  {
+    "external_id": "773",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welke splitsing moet u bestuurders van links verwachten? 752",
+    "image_raw": null
+  },
+  {
+    "external_id": "774",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welke splitsing moet u bestuurders van links verwachten? 753",
+    "image_raw": null
+  },
+  {
+    "external_id": "775",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "In welke situatie mag u rechtsaf? 754",
+    "image_raw": null
+  },
+  {
+    "external_id": "776",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een eenrichtingsweg aan? 755",
+    "image_raw": null
+  },
+  {
+    "external_id": "777",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt rechtsaf, mag dat? 756",
+    "image_raw": null
+  },
+  {
+    "external_id": "778",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt rechtsaf, mag dat? 757",
+    "image_raw": null
+  },
+  {
+    "external_id": "779",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt linksaf, mag dat? 758",
+    "image_raw": null
+  },
+  {
+    "external_id": "780",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt rechtdoor, kunt u hier verkeer van rechts verwachten? 759",
+    "image_raw": null
+  },
+  {
+    "external_id": "781",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt linksaf, mag dat? 760",
+    "image_raw": null
+  },
+  {
+    "external_id": "782",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet u hier rechtdoor rijden? 761",
+    "image_raw": null
+  },
+  {
+    "external_id": "783",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt deze weg inrijden, mag dat? 763",
+    "image_raw": null
+  },
+  {
+    "external_id": "784",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord moet u tegenliggers verwachten? 763",
+    "image_raw": null
+  },
+  {
+    "external_id": "785",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord moet u tegenliggers verwachten? 764",
+    "image_raw": null
+  },
+  {
+    "external_id": "786",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord mag u niet linksaf? 765",
+    "image_raw": null
+  },
+  {
+    "external_id": "787",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord is het verboden naar links of rechts te gaan? 766",
+    "image_raw": null
+  },
+  {
+    "external_id": "788",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een eenrichtingsweg aan? 767",
+    "image_raw": null
+  },
+  {
+    "external_id": "789",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geven deze borden aan? 768",
+    "image_raw": null
+  },
+  {
+    "external_id": "790",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt rechtdoor, moet u hier tegemoetkomende motorfietsen verwachten? 769",
+    "image_raw": null
+  },
+  {
+    "external_id": "791",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 770",
+    "image_raw": null
+  },
+  {
+    "external_id": "792",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 771",
+    "image_raw": null
+  },
+  {
+    "external_id": "793",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord is rechtdoor rijden verboden? 772",
+    "image_raw": null
+  },
+  {
+    "external_id": "794",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord mag u rechtdoor rijden? 773",
+    "image_raw": null
+  },
+  {
+    "external_id": "795",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt hier keren, mag dat? 774",
+    "image_raw": null
+  },
+  {
+    "external_id": "796",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Rijdt u hier op een eenrichtingsweg? 775",
+    "image_raw": null
+  },
+  {
+    "external_id": "797",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Als u dit bord tegenkomt, waar houdt u dan rekening mee? 776",
+    "image_raw": null
+  },
+  {
+    "external_id": "798",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U ziet dit bord langs de kant van de weg. Rijdt u hier op een autosnelweg? 777",
+    "image_raw": null
+  },
+  {
+    "external_id": "799",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Op welke weg moet u tegenliggers verwachten? 778",
+    "image_raw": null
+  },
+  {
+    "external_id": "800",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welke weg is in het algemeen veiliger? 779",
+    "image_raw": null
+  },
+  {
+    "external_id": "801",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Kunt u hier eerst een bocht naar rechts verwachten? 780",
+    "image_raw": null
+  },
+  {
+    "external_id": "802",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U ziet dit bord verderop, waar waarschuwt dit bord voor? 781",
+    "image_raw": null
+  },
+  {
+    "external_id": "803",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord heeft een splitsing van de autosnelweg aan? 782",
+    "image_raw": null
+  },
+  {
+    "external_id": "804",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U ziet dit bord verderop. Waar wordt u voor gewaarschuwd? 783",
+    "image_raw": null
+  },
+  {
+    "external_id": "805",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord kunt u aantreffen bij een versmalling van de vluchtstrook? 784",
+    "image_raw": null
+  },
+  {
+    "external_id": "806",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 785",
+    "image_raw": null
+  },
+  {
+    "external_id": "807",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Geeft dit bord een splitsing aan? 786",
+    "image_raw": null
+  },
+  {
+    "external_id": "808",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welke voertuigen mogen geen gebruik maken van deze rijstrook? 787",
+    "image_raw": null
+  },
+  {
+    "external_id": "809",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Voor welke voertuigen is de linkerrijstrook gesloten? 788",
+    "image_raw": null
+  },
+  {
+    "external_id": "810",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt linksaf, mag dat? 789",
+    "image_raw": null
+  },
+  {
+    "external_id": "811",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft aan dat u bestuurders op de kruisende weg voorrang moet verlenen? 790",
+    "image_raw": null
+  },
+  {
+    "external_id": "812",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 791",
+    "image_raw": null
+  },
+  {
+    "external_id": "813",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 792",
+    "image_raw": null
+  },
+  {
+    "external_id": "814",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord heeft te maken met voorrang? 793",
+    "image_raw": null
+  },
+  {
+    "external_id": "815",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 794",
+    "image_raw": null
+  },
+  {
+    "external_id": "816",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Door sneeuwval is alleen de omtrek van het bord zichtbaar. Welk bord geeft aan dat u voorrang moet verlenen? 795",
+    "image_raw": null
+  },
+  {
+    "external_id": "817",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Door sneeuwval is alleen de vorm van het bord zichtbaar. Welk soort bord is dit? 796",
+    "image_raw": null
+  },
+  {
+    "external_id": "818",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Er nadert geen verkeerd, moet u stoppen? 797",
+    "image_raw": null
+  },
+  {
+    "external_id": "819",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit rijstrook licht? 798",
+    "image_raw": null
+  },
+  {
+    "external_id": "820",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Na een ongeval is een rijstrook afgesloten. Wanneer mag u de rijstrook weer gebruiken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "821",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt je hier gewaarschuwd voor langzaam rijdende voertuigen? 800",
+    "image_raw": null
+  },
+  {
+    "external_id": "822",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor langzaam rijdende voertuigen? 800",
+    "image_raw": null
+  },
+  {
+    "external_id": "823",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Rijdt u hier in een 30 km zone? 801",
+    "image_raw": null
+  },
+  {
+    "external_id": "824",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Tot waar geldt hier de maximale snelheid? 802",
+    "image_raw": null
+  },
+  {
+    "external_id": "825",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt hier achteruit rijden, mag dat? 803",
+    "image_raw": null
+  },
+  {
+    "external_id": "826",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U wilt hier achteruit rijden mag dat? 804",
+    "image_raw": null
+  },
+  {
+    "external_id": "827",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar moet u hier rekening mee houden? 805",
+    "image_raw": null
+  },
+  {
+    "external_id": "828",
+    "category": "Wetgeving",
+    "text": "Welke voertuigen kunt u herkennen aan deze reflector? 806",
+    "image_raw": null
+  },
+  {
+    "external_id": "829",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor een gevaarlijke bocht? 807",
+    "image_raw": null
+  },
+  {
+    "external_id": "830",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 808",
+    "image_raw": null
+  },
+  {
+    "external_id": "831",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft de bebouwde kom aan? 809",
+    "image_raw": null
+  },
+  {
+    "external_id": "832",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat kunt u na dit bord verwachten? 810",
+    "image_raw": null
+  },
+  {
+    "external_id": "833",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een gesloten verklaring aan voor alle motorvoertuigen? 811",
+    "image_raw": null
+  },
+  {
+    "external_id": "834",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord mag u iemand laten uitstappen? 812",
+    "image_raw": null
+  },
+  {
+    "external_id": "835",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord mag u laden en lossen? 813",
+    "image_raw": null
+  },
+  {
+    "external_id": "836",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft einde voorrangsweg aan? 814",
+    "image_raw": null
+  },
+  {
+    "external_id": "837",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft slipgevaar aan? 815",
+    "image_raw": null
+  },
+  {
+    "external_id": "838",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U rijdt op een weg en vlak na het kruispunt staat dit bord. Waar bevindt u zich dan? 816",
+    "image_raw": null
+  },
+  {
+    "external_id": "839",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wanneer is deze waarschuwing van belang? 817",
+    "image_raw": null
+  },
+  {
+    "external_id": "840",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Geldt deze aanwijzing alleen voor motorrijders? 818",
+    "image_raw": null
+  },
+  {
+    "external_id": "841",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar waarschuwt dit bord voor? 819",
+    "image_raw": null
+  },
+  {
+    "external_id": "842",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet je hier spelende kinderen verwachten? 820",
+    "image_raw": null
+  },
+  {
+    "external_id": "843",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Kunt u hier voetgangers verwachten? 821",
+    "image_raw": null
+  },
+  {
+    "external_id": "844",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar kan je overstekende kinderen verwachten? 822",
+    "image_raw": null
+  },
+  {
+    "external_id": "845",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 823",
+    "image_raw": null
+  },
+  {
+    "external_id": "846",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 824",
+    "image_raw": null
+  },
+  {
+    "external_id": "847",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord betekent het einde van alle door verkeersborden aangegeven verboden? 825",
+    "image_raw": null
+  },
+  {
+    "external_id": "848",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord betekent het einde van alle door signaleringsborden aangegeven verboden? 826",
+    "image_raw": null
+  },
+  {
+    "external_id": "849",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor een file? 827",
+    "image_raw": null
+  },
+  {
+    "external_id": "850",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Kunt u op deze weg een brommobiel verwachten? 828",
+    "image_raw": null
+  },
+  {
+    "external_id": "851",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet u op deze weg een brommobiel op de rijbaan verwachten? 829",
+    "image_raw": null
+  },
+  {
+    "external_id": "852",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 830",
+    "image_raw": null
+  },
+  {
+    "external_id": "853",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 831",
+    "image_raw": null
+  },
+  {
+    "external_id": "854",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Mag u na dit bord de doorgetrokken streep overschrijden? 832",
+    "image_raw": null
+  },
+  {
+    "external_id": "855",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord betekent einde rijstrook? 833",
+    "image_raw": null
+  },
+  {
+    "external_id": "856",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Voor welke voertuigen geldt dit verbod? 834",
+    "image_raw": null
+  },
+  {
+    "external_id": "857",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 835",
+    "image_raw": null
+  },
+  {
+    "external_id": "858",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Volgt u hier afrit 27? 836",
+    "image_raw": null
+  },
+  {
+    "external_id": "859",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Staan op deze borden afrit nummers? 837",
+    "image_raw": null
+  },
+  {
+    "external_id": "860",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekenen deze nummers: A12 / E30? 838",
+    "image_raw": null
+  },
+  {
+    "external_id": "861",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U neemt de afslag na het viaduct, welke richting gaat u op? 839",
+    "image_raw": null
+  },
+  {
+    "external_id": "63",
+    "category": "Wetgeving",
+    "text": "Je wilt zo gaan rijden, mag dat? (Auto met fietsendrager)",
+    "image_raw": null
+  },
+  {
+    "external_id": "64",
+    "category": "Wetgeving",
+    "text": "Moet deze fietsendrager een kentekenplaat hebben?",
+    "image_raw": null
+  },
+  {
+    "external_id": "65",
+    "category": "Wetgeving",
+    "text": "Mag je de kentekenplaat van de auto op de fietsendrager gebruiken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "66",
+    "category": "Wetgeving",
+    "text": "Mag u hierop bagage vervoeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "67",
+    "category": "Wetgeving",
+    "text": "Mag je de fietsendrager op deze manier gebruiken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "68",
+    "category": "Wetgeving",
+    "text": "Je wilt bouwmaterialen zo vervoeren, mag dat? (Vraag 60)",
+    "image_raw": null
+  },
+  {
+    "external_id": "69",
+    "category": "Wetgeving",
+    "text": "Je wilt zo met je aanhangwagen gaan rijden, mag dat? (Vraag 61)",
+    "image_raw": null
+  },
+  {
+    "external_id": "70",
+    "category": "Wetgeving",
+    "text": "Moet de kentekenplaat van de auto een goedkeuringsmerk hebben?",
+    "image_raw": null
+  },
+  {
+    "external_id": "71",
+    "category": "Wetgeving",
+    "text": "Je wilt zo met je aanhangwagen gaan rijden, mag dat? (Vraag 63)",
+    "image_raw": null
+  },
+  {
+    "external_id": "72",
+    "category": "Wetgeving",
+    "text": "Je afneembare trekhaak zit nog op je auto, mag je zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "73",
+    "category": "Wetgeving",
+    "text": "Uw lading is gemarkeerd met een rode vlag, mag u zo gaan rijden? (Vraag 65)",
+    "image_raw": null
+  },
+  {
+    "external_id": "74",
+    "category": "Wetgeving",
+    "text": "Uw lading is gemarkeerd met dit bord, moet dat? (Vraag 66)",
+    "image_raw": null
+  },
+  {
+    "external_id": "75",
+    "category": "Wetgeving",
+    "text": "De ondeelbare lading steekt 1m50 uit. Moet je deze lading zo markeren? (Vraag 67)",
+    "image_raw": null
+  },
+  {
+    "external_id": "76",
+    "category": "Wetgeving",
+    "text": "In welke situatie is de lading op de juist manier gemarkeerd? 68",
+    "image_raw": null
+  },
+  {
+    "external_id": "77",
+    "category": "Wetgeving",
+    "text": "Waar moet de lading van voorzien zijn, als deze aan de achterzijde meer dan 1 meter uitsteekt?",
+    "image_raw": null
+  },
+  {
+    "external_id": "78",
+    "category": "Wetgeving",
+    "text": "De lading van uw aanhangwagen steekt aan de voorkant uit, mag u zo gaan rijden? 70",
+    "image_raw": null
+  },
+  {
+    "external_id": "79",
+    "category": "Wetgeving",
+    "text": "Hoe ver mag de lading maximaal uitsteken aan de achterkant van de auto?",
+    "image_raw": null
+  },
+  {
+    "external_id": "80",
+    "category": "Wetgeving",
+    "text": "Hoe ver mag de lading van een personenauto maximaal aan de zijkanten uitsteken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "81",
+    "category": "Wetgeving",
+    "text": "De lading van uw personenauto steekt aan beide zijden 25 cm uit, mag u zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "82",
+    "category": "Wetgeving",
+    "text": "De lading van uw personenauto steekt aan beide zijden 15 cm uit, mag u zo gaan rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "83",
+    "category": "Voertuigkennis",
+    "text": "Je auto wordt zwaar beladen, wat moet u doen om de wegligging van de auto goed te houden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "84",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met te lage bandenspanning, wanneer is dat van invloed op het brandstofverbruik?",
+    "image_raw": null
+  },
+  {
+    "external_id": "85",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wat is het gevolg van te lage bandenspanning?",
+    "image_raw": null
+  },
+  {
+    "external_id": "86",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Je rijdt met een te lage bandenspanning, heeft dat invloed op de wegligging?",
+    "image_raw": null
+  },
+  {
+    "external_id": "87",
+    "category": "Voertuigkennis",
+    "text": "Wat is het doel van de ventieldoppen op de banden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "88",
+    "category": "Voertuigkennis",
+    "text": "Hoe diep moet het profiel van de banden minimaal zijn?",
+    "image_raw": null
+  },
+  {
+    "external_id": "89",
+    "category": "Voertuigkennis",
+    "text": "Wat is de minimale profieldiepte die voor winterbanden wordt geadviseerd?",
+    "image_raw": null
+  },
+  {
+    "external_id": "90",
+    "category": "Voertuigkennis",
+    "text": "Uw banden hebben een profiel van 1,5 millimeter, mag u hiermee rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "91",
+    "category": "Voertuigkennis",
+    "text": "Het sneeuwt is het dan veiliger om op winterbanden te rijden dan op normale banden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "92",
+    "category": "Wetgeving",
+    "text": "Uw auto rijdt op diesel en is ouder dan 3 jaar. Hoe vaak moet u uw auto APK laten keuren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "93",
+    "category": "Wetgeving",
+    "text": "Wanneer moet een personenauto met een dieselmotor voor de eerste keer APK worden gekeurd?",
+    "image_raw": null
+  },
+  {
+    "external_id": "94",
+    "category": "Wetgeving",
+    "text": "Je hebt een nieuwe benzineauto aangeschaft. Wanneer moet je voor de APK naar de garage?",
+    "image_raw": null
+  },
+  {
+    "external_id": "95",
+    "category": "Wetgeving",
+    "text": "U rijdt in een geleende auto en de auto is niet APK gekeurd, wie is er verantwoordelijk?",
+    "image_raw": null
+  },
+  {
+    "external_id": "97",
+    "category": "Voertuigkennis",
+    "text": "Wie moet ervoor zorgen dat een voertuig technisch helemaal in orde is?",
+    "image_raw": null
+  },
+  {
+    "external_id": "98",
+    "category": "Voertuigkennis",
+    "text": "Welk deel van de weg kan de bestuurder van deze bus met een goed afgestelde linkerbuitenspiegel overzien? 90",
+    "image_raw": null
+  },
+  {
+    "external_id": "99",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welk deel van de weg kan een bestuurder van de combinatie met een goed afgestelde rechterbuitenspiegel overzien?",
+    "image_raw": null
+  },
+  {
+    "external_id": "100",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welk deel van de weg kan de bestuurder van deze motor met een goed afgestelde linkerbuitenspiegel overzien?",
+    "image_raw": null
+  },
+  {
+    "external_id": "101",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar is de dode hoek? 93",
+    "image_raw": null
+  },
+  {
+    "external_id": "102",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar is de dode hoek? 94",
+    "image_raw": null
+  },
+  {
+    "external_id": "103",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Blijft de dode hoek bij een goed afgestelde spiegel bestaan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "104",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je hebt een barst op je linkerbuitenspiegel, is het verboden om daarmee te rijden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "105",
+    "category": "Voertuigkennis",
+    "text": "Hebben vrachtauto\u2019s grotere dode hoeken dan personenauto\u2019s?",
+    "image_raw": null
+  },
+  {
+    "external_id": "106",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Is de profieldiepte van de banden van invloed op het ontstaan van aquaplaning?",
+    "image_raw": null
+  },
+  {
+    "external_id": "107",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het regent, waar is de kans op aquaplaning het grootst?",
+    "image_raw": null
+  },
+  {
+    "external_id": "108",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat is de belangrijkste oorzaak voor het ontstaan van aquaplaning?",
+    "image_raw": null
+  },
+  {
+    "external_id": "109",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je verhoogt je snelheid, wordt de kans op aquaplaning dan kleiner?",
+    "image_raw": null
+  },
+  {
+    "external_id": "110",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je rijdt in een auto met voorwielaandrijving. Wat moet je doen als er aquaplaning ontstaat?",
+    "image_raw": null
+  },
+  {
+    "external_id": "111",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je auto heeft extract breden banden, is het risico op aquaplaning groter dan bij normale banden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "112",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Met welke band is het gevaar van aquaplaning groter? 104",
+    "image_raw": null
+  },
+  {
+    "external_id": "113",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wanneer kan in het algemeen de bandenspanning het beste gemeten worden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "114",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met een te lage bandenspanning, heeft dit invloed op de slijtage van de banden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "115",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Is het beter om de bandenspanning te controleren nadat u enige tijd gereden heeft?",
+    "image_raw": null
+  },
+  {
+    "external_id": "116",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "De juiste bandenspanning zorgt voor een goede wegligging, welke band heeft de juiste bandenspanning?",
+    "image_raw": null
+  },
+  {
+    "external_id": "117",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "Wat is het belangrijkste gevolg van te hoge bandenspanning?",
+    "image_raw": null
+  },
+  {
+    "external_id": "118",
+    "category": "Verantwoorde verkeersdeelname en milieubewust rijden",
+    "text": "U rijdt met een niet goed afgesloten achterportier, kan hierdoor extra risico ontstaan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "119",
+    "category": "Voertuigkennis",
+    "text": "Na het starten blijft je binnenverlichting branden, waar moet je rekening mee houden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "120",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Je rijdt met raamfolie op de auto, mag dat? 112",
+    "image_raw": null
+  },
+  {
+    "external_id": "121",
+    "category": "Voertuigkennis",
+    "text": "Je tankt de verkeerde brandstof in je auto, wat moet je doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "122",
+    "category": "Voertuigkennis",
+    "text": "Tijdens het rijden gaat dit waarschuwingslampje branden, wat moet u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "123",
+    "category": "Voertuigkennis",
+    "text": "U wilt het oliepeil controleren, wat is dan belangrijk?",
+    "image_raw": null
+  },
+  {
+    "external_id": "124",
+    "category": "Voertuigkennis",
+    "text": "Wanneer kan het niveau van de motorolie het beste gecontroleerd worden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "125",
+    "category": "Voertuigkennis",
+    "text": "Welk symbool heeft te maken met waarschuwingslichten? 117",
+    "image_raw": null
+  },
+  {
+    "external_id": "126",
+    "category": "Voertuigkennis",
+    "text": "Welk symbool heeft te maken met het remsysteem? 118",
+    "image_raw": null
+  },
+  {
+    "external_id": "127",
+    "category": "Voertuigkennis",
+    "text": "Welk symbool heeft te maken met het koelvloeistofniveau? 119",
+    "image_raw": null
+  },
+  {
+    "external_id": "128",
+    "category": "Voertuigkennis",
+    "text": "Welk symbool heeft te maken met het motormanagement? 120",
+    "image_raw": null
+  },
+  {
+    "external_id": "140",
+    "category": "Voertuigkennis",
+    "text": "Waar heeft dit symbool mee te maken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "131",
+    "category": "Voertuigkennis",
+    "text": "Wat moet u bij het zien van dit symbool bijvullen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "132",
+    "category": "Voertuigkennis",
+    "text": "Wat moet u bij het zien van dit lampje bijvullen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "133",
+    "category": "Voertuigkennis",
+    "text": "U rijdt op de autosnelweg en er gaat een geel controle lampje branden op het dashboard. Kunt u dan nog doorrijden naar de eerstvolgende parkeerplaats om te stoppen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "134",
+    "category": "Voertuigkennis",
+    "text": "Je rijdt op de autosnelweg en er gaat een geel controle lampje branden op uw dashboard, wat moet u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "135",
+    "category": "Voertuigkennis",
+    "text": "Je rijdt op de autosnelweg en er gaat een rood controle lampje branden op uw dashboard, wat moet u doen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "137",
+    "category": "Voertuigkennis",
+    "text": "Waar dient dit symbool voor?",
+    "image_raw": null
+  },
+  {
+    "external_id": "139",
+    "category": "Voertuigkennis",
+    "text": "Als u korte ritten rijdt, heeft dit dan effect op uw accu?",
+    "image_raw": null
+  },
+  {
+    "external_id": "141",
+    "category": "Voertuigkennis",
+    "text": "Wat is het symbool voor groot licht? 133",
+    "image_raw": null
+  },
+  {
+    "external_id": "142",
+    "category": "Voertuigkennis",
+    "text": "Welke verlichting brand op het dashboard? 134",
+    "image_raw": null
+  },
+  {
+    "external_id": "144",
+    "category": "Voertuigkennis",
+    "text": "Het heeft gesneeuwd en u wilt met uw auto gaan rijden, waar besteed u voor het wegrijden extra aandacht aan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "145",
+    "category": "Voertuigkennis",
+    "text": "Wat is het voordeel van ABS?",
+    "image_raw": null
+  },
+  {
+    "external_id": "146",
+    "category": "Voertuigkennis",
+    "text": "Je auto heeft ABS en u moet een noodstop maken, wat is dan de beste manier van remmen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "147",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Uw personenauto is voorin uitgerust met twee airbags. Op welke zitplaatsen moet de autogordel gedragen worden?",
+    "image_raw": null
+  },
+  {
+    "external_id": "148",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt langs het water, wat doet u?",
+    "image_raw": null
+  },
+  {
+    "external_id": "149",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "De zwangere bestuurde gebruikt de driepuntsgordel als heupgordel, mag dat?",
+    "image_raw": null
+  },
+  {
+    "external_id": "150",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Is de passagier op de achterbank verplicht om een gordel te dragen?",
+    "image_raw": null
+  },
+  {
+    "external_id": "151",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "De achterbank heeft drie zitplaatsen en twee gordels, hoeveel personen mogen er achterin zitten?",
+    "image_raw": null
+  },
+  {
+    "external_id": "152",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Van welke zitplaatsen moet de autogordel werken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "153",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U staat voor een rood verkeerslicht, mag u de gordel even afdoen om uw jas uit te trekken?",
+    "image_raw": null
+  },
+  {
+    "external_id": "154",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Voor wie is het belangrijk dat de hoofdsteun goed is afgesteld?",
+    "image_raw": null
+  },
+  {
+    "external_id": "155",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Hoe groot moet de afstand tussen het hoofd en de hoofdsteun zijn?",
+    "image_raw": null
+  },
+  {
+    "external_id": "156",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Bij welke situatie is de hoofdsteun goed afgesteld?",
+    "image_raw": null
+  },
+  {
+    "external_id": "157",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "In welke situatie moet de airbag worden uitgeschakeld?",
+    "image_raw": null
+  },
+  {
+    "external_id": "158",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Dit symbool is aangebracht bij de zitplaats. Wat betekent dit symbool?",
+    "image_raw": null
+  },
+  {
+    "external_id": "159",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft geen kinderzitje en u wilt een kind van jaar oud meenemen, is dit toegestaan?",
+    "image_raw": null
+  },
+  {
+    "external_id": "160",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Hoe lang moet een kind zijn om gebruik te mogen maken van de autogordel?",
+    "image_raw": null
+  },
+  {
+    "external_id": "161",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Mag je een kind van 2 jaar oud met een geschikt kinderzitje op de voorste zitplaats vervoeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "412",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de bromfietser voor laten gaan? 409",
+    "image_raw": null
+  },
+  {
+    "external_id": "413",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de fietser voor laten gaan? 410",
+    "image_raw": null
+  },
+  {
+    "external_id": "414",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 411",
+    "image_raw": null
+  },
+  {
+    "external_id": "415",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 412",
+    "image_raw": null
+  },
+  {
+    "external_id": "416",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 413",
+    "image_raw": null
+  },
+  {
+    "external_id": "417",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 414",
+    "image_raw": null
+  },
+  {
+    "external_id": "418",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 415",
+    "image_raw": null
+  },
+  {
+    "external_id": "419",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 416",
+    "image_raw": null
+  },
+  {
+    "external_id": "420",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 417",
+    "image_raw": null
+  },
+  {
+    "external_id": "421",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de voetganger voor laten gaan? 418",
+    "image_raw": null
+  },
+  {
+    "external_id": "422",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 419",
+    "image_raw": null
+  },
+  {
+    "external_id": "423",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de fietser voor laten gaan? 420",
+    "image_raw": null
+  },
+  {
+    "external_id": "424",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de bromfietser voor laten gaan? 421",
+    "image_raw": null
+  },
+  {
+    "external_id": "425",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 422",
+    "image_raw": null
+  },
+  {
+    "external_id": "426",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de auto voor laten gaan? 423",
+    "image_raw": null
+  },
+  {
+    "external_id": "427",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, in welke situatie moet u de bromfietser voor laten gaan? 424",
+    "image_raw": null
+  },
+  {
+    "external_id": "428",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, in welke situatie moet u de bromfietser voor laten gaan? 425",
+    "image_raw": null
+  },
+  {
+    "external_id": "429",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de auto voor laten gaan? 426",
+    "image_raw": null
+  },
+  {
+    "external_id": "430",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 427",
+    "image_raw": null
+  },
+  {
+    "external_id": "431",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 428",
+    "image_raw": null
+  },
+  {
+    "external_id": "432",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de bromfietser voor laten gaan? 429",
+    "image_raw": null
+  },
+  {
+    "external_id": "433",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt linksaf, moet u de auto voor laten gaan? 430",
+    "image_raw": null
+  },
+  {
+    "external_id": "434",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de voetganger voor laten gaan? 431",
+    "image_raw": null
+  },
+  {
+    "external_id": "435",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtsaf, moet u de fietser voor laten gaan? 432",
+    "image_raw": null
+  },
+  {
+    "external_id": "436",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de auto voor laten gaan? 433",
+    "image_raw": null
+  },
+  {
+    "external_id": "437",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de motor voor laten gaan? 434",
+    "image_raw": null
+  },
+  {
+    "external_id": "438",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetgangers voor laten gaan? 435",
+    "image_raw": null
+  },
+  {
+    "external_id": "439",
+    "category": "Voorrang en voor laten gaan",
+    "text": "U wilt rechtdoor, moet u de voetgangers voor laten gaan? 436",
+    "image_raw": null
+  },
+  {
+    "external_id": "440",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 437",
+    "image_raw": null
+  },
+  {
+    "external_id": "441",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 438",
+    "image_raw": null
+  },
+  {
+    "external_id": "442",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 439",
+    "image_raw": null
+  },
+  {
+    "external_id": "443",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 440",
+    "image_raw": null
+  },
+  {
+    "external_id": "444",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 441",
+    "image_raw": null
+  },
+  {
+    "external_id": "445",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 442",
+    "image_raw": null
+  },
+  {
+    "external_id": "446",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 443",
+    "image_raw": null
+  },
+  {
+    "external_id": "447",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 444",
+    "image_raw": null
+  },
+  {
+    "external_id": "448",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 445",
+    "image_raw": null
+  },
+  {
+    "external_id": "449",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 446",
+    "image_raw": null
+  },
+  {
+    "external_id": "450",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 447",
+    "image_raw": null
+  },
+  {
+    "external_id": "451",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wie moet je hier voor laten gaan? 448",
+    "image_raw": null
+  },
+  {
+    "external_id": "452",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 449",
+    "image_raw": null
+  },
+  {
+    "external_id": "453",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 450",
+    "image_raw": null
+  },
+  {
+    "external_id": "454",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 451",
+    "image_raw": null
+  },
+  {
+    "external_id": "455",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 452",
+    "image_raw": null
+  },
+  {
+    "external_id": "456",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 453",
+    "image_raw": null
+  },
+  {
+    "external_id": "457",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 454",
+    "image_raw": null
+  },
+  {
+    "external_id": "458",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 455",
+    "image_raw": null
+  },
+  {
+    "external_id": "459",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 456",
+    "image_raw": null
+  },
+  {
+    "external_id": "460",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 457",
+    "image_raw": null
+  },
+  {
+    "external_id": "461",
+    "category": "Voorrang en voor laten gaan",
+    "text": "Wat is hier de juiste volgorde van voor laten gaan? 458",
+    "image_raw": null
+  },
+  {
+    "external_id": "712",
+    "category": "Gebruik van de weg",
+    "text": "U wilt rechtdoor en maakt geen gebruik van de doorgaande rijbaan. Wat is veilig? 689",
+    "image_raw": null
+  },
+  {
+    "external_id": "713",
+    "category": "Gebruik van de weg",
+    "text": "U heeft zojuist de doorgaande rijbaan verlaten en u rijdt op de uitrijstrook. Wanneer schakelt u de richtingaanwijzer uit? 690",
+    "image_raw": null
+  },
+  {
+    "external_id": "714",
+    "category": "Gebruik van de weg",
+    "text": "Wanneer mag je met een lichtsignaal het tegemoetkomende verkeer waarschuwen? 691",
+    "image_raw": null
+  },
+  {
+    "external_id": "715",
+    "category": "Gebruik van de weg",
+    "text": "Waar mogen geluidssignalen ter afwending van dreigend gevaar worden gegeven? 692",
+    "image_raw": null
+  },
+  {
+    "external_id": "716",
+    "category": "Gebruik van de weg",
+    "text": "Waar mag u knipper signalen ter afwending van dreigend gevaar? 693",
+    "image_raw": null
+  },
+  {
+    "external_id": "717",
+    "category": "Gebruik van de weg",
+    "text": "Er rijdt een auto in het donker u tegemoet zonder verlichting. Mag u de bestuurder met een lichtsignaal waarschuwen? 694",
+    "image_raw": null
+  },
+  {
+    "external_id": "718",
+    "category": "Gebruik van de weg",
+    "text": "U krijgt geen voorrang, mag u een geluidssignaal geven? 695",
+    "image_raw": null
+  },
+  {
+    "external_id": "719",
+    "category": "Gebruik van de weg",
+    "text": "U claxonneert kort om afscheid te nemen van een vriend, mag dat? 696",
+    "image_raw": null
+  },
+  {
+    "external_id": "720",
+    "category": "Gebruik van de weg",
+    "text": "De politie controleert op snelheid, mag u uw medeweggebruikers waarschuwen met een lichtsignaal? 697",
+    "image_raw": null
+  },
+  {
+    "external_id": "721",
+    "category": "Gebruik van de weg",
+    "text": "De voetganger wil oversteken. Mag je claxonneren om duidelijk te maken dat hij eerst mag? 698",
+    "image_raw": null
+  },
+  {
+    "external_id": "722",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat moet u doen voordat u een tunnel in rijdt? 701",
+    "image_raw": null
+  },
+  {
+    "external_id": "723",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier met dimlicht aan, moet dat? 702",
+    "image_raw": null
+  },
+  {
+    "external_id": "724",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier met grootlicht aan, mag dat? 703",
+    "image_raw": null
+  },
+  {
+    "external_id": "725",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt overdag met grootlicht, mag dat? 704",
+    "image_raw": null
+  },
+  {
+    "external_id": "726",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Bij welke situatie mag u grootlicht voeren? 705",
+    "image_raw": null
+  },
+  {
+    "external_id": "727",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier met grootlicht, mag dat? 706",
+    "image_raw": null
+  },
+  {
+    "external_id": "728",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier met grootlicht, mag dat? 707",
+    "image_raw": null
+  },
+  {
+    "external_id": "729",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier met grootlicht, mag dat? 708",
+    "image_raw": null
+  },
+  {
+    "external_id": "730",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier met grootlicht, mag dat? 709",
+    "image_raw": null
+  },
+  {
+    "external_id": "731",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wanneer is het voeren van grootlicht in bepaalde gevallen toegestaan? 710",
+    "image_raw": null
+  },
+  {
+    "external_id": "732",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Mag u hier dagrijverlichting voeren? 711",
+    "image_raw": null
+  },
+  {
+    "external_id": "733",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Mag je hier  dagrijverlichting in plaats van dimlicht voeren? 712",
+    "image_raw": null
+  },
+  {
+    "external_id": "734",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt overdag met dimlicht, mag dat? 713",
+    "image_raw": null
+  },
+  {
+    "external_id": "735",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke verlichting moet je bij dag voeren als door weersomstandigheden het zicht ernstig wordt belemmerd? 714",
+    "image_raw": null
+  },
+  {
+    "external_id": "737",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Op deze weg is het voeren van verlichting aanbevolen. Welke verlichting moet u dan voeren? 715",
+    "image_raw": null
+  },
+  {
+    "external_id": "738",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U heeft laagstaande zon in de rug. Wat moet u doen om de zichtbaarheid van uw voertuig te verhogen? 716",
+    "image_raw": null
+  },
+  {
+    "external_id": "739",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Welke verlichting mag u overdag voeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "740",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt in de regen met mistachterlicht, mag dat? 718",
+    "image_raw": null
+  },
+  {
+    "external_id": "741",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het is mistig. Terwijl u dit hectometerbord passeert kunt u het volgende bordje zien staan. Mag u nu uw mistachterlicht aanzetten? 719",
+    "image_raw": null
+  },
+  {
+    "external_id": "742",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Mistachterlicht mag worden gevoerd bij mist als het zicht minder is dan.. 720",
+    "image_raw": null
+  },
+  {
+    "external_id": "743",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het zicht is minder dan 50 meter, wanneer mag u mistachterlicht voeren? 721",
+    "image_raw": null
+  },
+  {
+    "external_id": "744",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het zicht is 40 meter. U rijdt met uw mistachterlicht aan, mag dat? 722",
+    "image_raw": null
+  },
+  {
+    "external_id": "745",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het zicht is 70 meter, u rijdt met mistachterlicht aan mag dat? 723",
+    "image_raw": null
+  },
+  {
+    "external_id": "746",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Door mist is het zicht minder dan 50 meter. Waar mag u mistachterlicht voeren?",
+    "image_raw": null
+  },
+  {
+    "external_id": "747",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U rijdt hier alleen met stadslicht, mag dat? 725",
+    "image_raw": null
+  },
+  {
+    "external_id": "748",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het zicht is slecht en u rijdt overdag met alleen stadslicht, mag dat? 726",
+    "image_raw": null
+  },
+  {
+    "external_id": "749",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U parkeert hier zonder licht, mag dat? 727",
+    "image_raw": null
+  },
+  {
+    "external_id": "750",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U parkeert hier en laat uw stadslichten en achterlichten branden, moet dat? 728",
+    "image_raw": null
+  },
+  {
+    "external_id": "751",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "U parkeert hier, moet u verlichting voeren? 729",
+    "image_raw": null
+  },
+  {
+    "external_id": "752",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wanneer is het voeren van mistlicht aan de voorzijde toegestaan? 730",
+    "image_raw": null
+  },
+  {
+    "external_id": "753",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het zicht wordt niet ernstig belemmert en u rijdt met dimlicht en mistlicht aan, mag dat? 731",
+    "image_raw": null
+  },
+  {
+    "external_id": "754",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Het zicht wordt ernstig belemmert door regen. Mag u mistlicht aan de voorzijde voeren? 732",
+    "image_raw": null
+  },
+  {
+    "external_id": "755",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Door regen is het zicht slecht en u rijdt overdag met grootlicht en mistlicht aan, mag dat? 733",
+    "image_raw": null
+  },
+  {
+    "external_id": "756",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Door regen is het zicht slecht en u rijdt overdag met dimlicht en mistlicht aan, mag dat? 734",
+    "image_raw": null
+  },
+  {
+    "external_id": "757",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wanneer mag u dit licht gebruiken? 735",
+    "image_raw": null
+  },
+  {
+    "external_id": "758",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar heeft dit symbool mee te maken? 736",
+    "image_raw": null
+  },
+  {
+    "external_id": "759",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Waar heeft dit symbool mee te maken? 737",
+    "image_raw": null
+  },
+  {
+    "external_id": "760",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat is het symbool voor mistachterlicht? 738",
+    "image_raw": null
+  },
+  {
+    "external_id": "761",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Kan het trekken van een beladen aanhangwagen invloed hebben op de verlichting van de auto? 739",
+    "image_raw": null
+  },
+  {
+    "external_id": "862",
+    "category": "Wetgeving",
+    "text": "Waar is parkeren op de rijbaan van een voorrangsweg toegestaan? 840",
+    "image_raw": null
+  },
+  {
+    "external_id": "863",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wanneer moet u hier rekening houden met overstekend wild? 841",
+    "image_raw": null
+  },
+  {
+    "external_id": "864",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wanneer is het risico groot dat wild oversteekt? 842",
+    "image_raw": null
+  },
+  {
+    "external_id": "865",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een verkeersdrempel aan? 843",
+    "image_raw": null
+  },
+  {
+    "external_id": "866",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 844",
+    "image_raw": null
+  },
+  {
+    "external_id": "867",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U mag een weg van twee kanten inrijden, welk verkeersbord geeft dat aan? 845",
+    "image_raw": null
+  },
+  {
+    "external_id": "868",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U rijdt om 22.00 \u2018s avonds op de autosnelweg en ziet dit bord. Wat is dan de toegestane snelheid op deze weg? 846",
+    "image_raw": null
+  },
+  {
+    "external_id": "869",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U rijdt hier in de middag, wat is dan uw toegestane snelheid? 847",
+    "image_raw": null
+  },
+  {
+    "external_id": "870",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk verkeersbord mag u niet parkeren? 848",
+    "image_raw": null
+  },
+  {
+    "external_id": "871",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord geeft een verbod om stil te staan? 849",
+    "image_raw": null
+  },
+  {
+    "external_id": "872",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord waarschuwt voor een gevaarlijke daling? 850",
+    "image_raw": null
+  },
+  {
+    "external_id": "873",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "Wat gebruikt u in deze situatie om de snelheid te regelen? 851",
+    "image_raw": null
+  },
+  {
+    "external_id": "874",
+    "category": "Veilig rijden met het voertuig en reageren in noodsituaties",
+    "text": "In uw auto schakelt u met de hand, hoe parkeert u de auto op een helling? 852",
+    "image_raw": null
+  },
+  {
+    "external_id": "875",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wordt u hier gewaarschuwd voor fileverkeer? 853",
+    "image_raw": null
+  },
+  {
+    "external_id": "876",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord waarschuwt voor een ongeval? 854",
+    "image_raw": null
+  },
+  {
+    "external_id": "877",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar heeft dit symbool mee te maken? 855",
+    "image_raw": null
+  },
+  {
+    "external_id": "878",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 856",
+    "image_raw": null
+  },
+  {
+    "external_id": "879",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 857",
+    "image_raw": null
+  },
+  {
+    "external_id": "880",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar kunt u dit bord tegenkomen? 858",
+    "image_raw": null
+  },
+  {
+    "external_id": "881",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord in een tunnel aan? 859",
+    "image_raw": null
+  },
+  {
+    "external_id": "882",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord waarschuwt voor slecht zicht? 860",
+    "image_raw": null
+  },
+  {
+    "external_id": "883",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 861",
+    "image_raw": null
+  },
+  {
+    "external_id": "884",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 862",
+    "image_raw": null
+  },
+  {
+    "external_id": "885",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord moet u verkeer uit tegengestelde richting voor laten gaan? 863",
+    "image_raw": null
+  },
+  {
+    "external_id": "886",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 864",
+    "image_raw": null
+  },
+  {
+    "external_id": "887",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet u bij dit bord een wegversmalling verwachten? 865",
+    "image_raw": null
+  },
+  {
+    "external_id": "888",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Moet u bij dit bord een wegversmalling verwachten? 866",
+    "image_raw": null
+  },
+  {
+    "external_id": "889",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Op dit bord staat 80, wat geeft dit aan? 867",
+    "image_raw": null
+  },
+  {
+    "external_id": "890",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 868",
+    "image_raw": null
+  },
+  {
+    "external_id": "891",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat betekent dit bord? 869",
+    "image_raw": null
+  },
+  {
+    "external_id": "892",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Geldt deze waarschuwing alleen als de weg nat is? 870",
+    "image_raw": null
+  },
+  {
+    "external_id": "893",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U ziet dit bord, wanneer moet u hier rekening houden met slipgevaar? 871",
+    "image_raw": null
+  },
+  {
+    "external_id": "894",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U ziet dit bord, waar geldt deze maximum snelheid? 872",
+    "image_raw": null
+  },
+  {
+    "external_id": "895",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk onder bord geeft aan dat het bord pas over 500 meter van toepassing is? 873",
+    "image_raw": null
+  },
+  {
+    "external_id": "896",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Voor welke zijde geldt dit bord? 874",
+    "image_raw": null
+  },
+  {
+    "external_id": "897",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Voor welke zijde geldt dit bord? 875",
+    "image_raw": null
+  },
+  {
+    "external_id": "898",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Mag u hier links parkeren? 876",
+    "image_raw": null
+  },
+  {
+    "external_id": "899",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Mag u hier links parkeren? 877",
+    "image_raw": null
+  },
+  {
+    "external_id": "900",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Waar mag u hier parkeren? 878",
+    "image_raw": null
+  },
+  {
+    "external_id": "901",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Kunt u hier tegenliggers verwachten? 879",
+    "image_raw": null
+  },
+  {
+    "external_id": "902",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U rijdt deze weg in, mag dat? 880",
+    "image_raw": null
+  },
+  {
+    "external_id": "903",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U rijdt deze weg in mag dat? 881",
+    "image_raw": null
+  },
+  {
+    "external_id": "904",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U rijdt deze weg in, mag dat? 882",
+    "image_raw": null
+  },
+  {
+    "external_id": "905",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U rijdt deze weg in, mag dat? 883",
+    "image_raw": null
+  },
+  {
+    "external_id": "906",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "U rijdt stapvoets op deze brug, mag dat? 884",
+    "image_raw": null
+  },
+  {
+    "external_id": "907",
+    "category": "Bijzondere wegen, weggedeelten, weggebruikers en manoeuvres",
+    "text": "Welk bord geeft een vaste uitwijk route aan? 885",
+    "image_raw": null
+  },
+  {
+    "external_id": "908",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "U volgt de uitwijk route, welke afslag op de rotonde moet u nemen? 886",
+    "image_raw": null
+  },
+  {
+    "external_id": "909",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Wat geeft dit bord aan? 887",
+    "image_raw": null
+  },
+  {
+    "external_id": "910",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Welk bord waarschuwt voor een rotonde? 888",
+    "image_raw": null
+  },
+  {
+    "external_id": "911",
+    "category": "Verkeerstekens en aanwijzingen",
+    "text": "Bij welk bord kunt u voetgangers verwachten? 889",
+    "image_raw": null
+  }
+]
