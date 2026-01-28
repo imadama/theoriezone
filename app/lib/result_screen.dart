@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:theoriezone_app/review_screen.dart';
 
 class ResultScreen extends StatelessWidget {
   final Map<String, dynamic> result;
@@ -11,9 +12,10 @@ class ResultScreen extends StatelessWidget {
     final int score = result['score'];
     final int total = result['total'];
     final dynamic grade = result['grade'];
+    final List<dynamic> mistakes = result['mistakes'] ?? [];
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Resultaat')),
+      appBar: AppBar(title: const Text('Resultaat'), automaticallyImplyLeading: false),
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(24.0),
@@ -38,17 +40,31 @@ class ResultScreen extends StatelessWidget {
               const SizedBox(height: 8),
               Text(
                 'Cijfer: $grade',
-                style: TextStyle(fontSize: 24, fontWeight: FontWeight.w600, color: Colors.deepPurple),
+                style: const TextStyle(fontSize: 24, fontWeight: FontWeight.w600, color: Colors.deepPurple),
               ),
-              const SizedBox(height: 48),
-              ElevatedButton(
+              const SizedBox(height: 32),
+              
+              if (mistakes.isNotEmpty)
+                ElevatedButton.icon(
+                  onPressed: () {
+                    Navigator.push(
+                      context, 
+                      MaterialPageRoute(builder: (_) => ReviewScreen(mistakes: mistakes))
+                    );
+                  },
+                  icon: const Icon(Icons.warning_amber_rounded),
+                  label: Text('Bekijk ${mistakes.length} fouten'),
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.amber.shade100,
+                    foregroundColor: Colors.brown,
+                  ),
+                ),
+
+              const SizedBox(height: 16),
+              OutlinedButton(
                 onPressed: () {
-                  // Pop until home
                   Navigator.of(context).popUntil((route) => route.isFirst);
                 },
-                style: ElevatedButton.styleFrom(
-                  padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
-                ),
                 child: const Text('Terug naar Home'),
               ),
             ],

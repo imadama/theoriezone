@@ -87,11 +87,40 @@ class ExamController extends Controller
             'answers' => $answers
         ]);
 
+        // Generate mistakes report
+        $mistakes = [];
+        foreach ($questions as $q) {
+            $given = $answers[$q->id] ?? null;
+            if ($given === null || (int)$given !== $q->correct_index) {
+                // Enrich image URL
+                $imageUrl = null;
+                if ($q->image_path) {
+                    $baseUrl = 'http://10.0.2.2:8080';
+                    if (str_starts_with($q->image_path, 'http')) {
+                        $imageUrl = $q->image_path;
+                    } else {
+                        $imageUrl = $baseUrl . $q->image_path;
+                    }
+                }
+
+                $mistakes[] = [
+                    'question_id' => $q->id,
+                    'text' => $q->text,
+                    'your_answer_index' => $given,
+                    'correct_index' => $q->correct_index,
+                    'options' => $q->options,
+                    'explanation' => $q->explanation,
+                    'image_url' => $imageUrl,
+                ];
+            }
+        }
+
         return response()->json([
             'score' => $score,
             'total' => $total,
             'passed' => $passed,
-            'grade' => round(($score / $total) * 10, 1)
+            'grade' => round(($score / $total) * 10, 1),
+            'mistakes' => $mistakes
         ]);
     }
 
