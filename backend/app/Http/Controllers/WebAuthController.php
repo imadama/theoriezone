@@ -24,7 +24,12 @@ class WebAuthController extends Controller
 
             // Redirect based on role
             $user = Auth::user();
-            if ($user->role === 'instructor' || $user->role === 'admin') {
+            
+            if ($user->role === 'admin') {
+                 return redirect()->intended('admin'); // Admin goes to questions editor
+            }
+            
+            if ($user->role === 'instructor') {
                 return redirect()->intended('school/dashboard');
             }
 
