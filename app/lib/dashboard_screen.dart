@@ -124,6 +124,10 @@ class _DashboardScreenState extends State<DashboardScreen> {
           ),
           const SizedBox(height: 32),
 
+import 'package:theoriezone_app/lessons_screen.dart';
+
+// ... inside _DashboardScreenState build ...
+
           // Quick Actions
           const Text(
             "Oefenen",
@@ -145,16 +149,35 @@ class _DashboardScreenState extends State<DashboardScreen> {
               const SizedBox(width: 16),
               Expanded(
                 child: _ActionCard(
+                  title: "Rijlessen",
+                  subtitle: "Mijn Agenda",
+                  icon: Icons.calendar_month_rounded,
+                  color: Colors.purple,
+                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const LessonsScreen())),
+                ),
+              ),
+            ],
+          ),
+          
+          const SizedBox(height: 24),
+
+          // Secondary Row
+          Row(
+            children: [
+              Expanded(
+                 child: _ActionCard(
                   title: "Fouten",
                   subtitle: "Reviewen",
                   icon: Icons.refresh_rounded,
                   color: Colors.orange,
                   onTap: () {
-                    // Navigate to Profile/History to review mistakes
+                     // Navigate to Profile/History to review mistakes
                      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text("Ga naar je profiel om fouten te zien.")));
                   },
                 ),
               ),
+               const SizedBox(width: 16),
+               const Spacer(), // Placeholder for next feature
             ],
           ),
           
