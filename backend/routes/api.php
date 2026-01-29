@@ -55,6 +55,11 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/exams/{id}/submit', [ExamController::class, 'submit']);
     Route::get('/exams/{id}', [ExamController::class, 'show']);
     
+use App\Http\Controllers\LessonController;
+
     // History
     Route::get('/attempts', [ExamAttemptController::class, 'index']);
+    
+    // Lessons
+    Route::get('/lessons', [LessonController::class, 'index']);
 });

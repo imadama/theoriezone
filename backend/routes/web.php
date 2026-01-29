@@ -6,6 +6,7 @@ use App\Http\Controllers\AdminController;
 use App\Http\Controllers\SchoolController;
 use App\Http\Controllers\WebAuthController;
 use App\Http\Controllers\SuperAdminController;
+use App\Http\Controllers\LessonController;
 
 Route::get('/', function () {
     return redirect('/login-web'); 
@@ -33,4 +34,8 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/school/create', [SchoolController::class, 'createStudent'])->name('school.create');
     Route::post('/school/store', [SchoolController::class, 'storeStudent'])->name('school.store');
     Route::get('/school/student/{id}', [SchoolController::class, 'showStudent'])->name('school.student');
+    
+    // Lessons
+    Route::post('/school/lessons', [LessonController::class, 'store'])->name('school.lessons.store');
+    Route::delete('/school/lessons/{id}', [LessonController::class, 'destroy'])->name('school.lessons.destroy');
 });

@@ -60,7 +60,12 @@ class SchoolController extends Controller
             ->with('exam')
             ->orderBy('created_at', 'desc')
             ->get();
+            
+        // Also fetch upcoming lessons
+        $lessons = \App\Models\Lesson::where('student_id', $student->id)
+            ->orderBy('start_time', 'asc')
+            ->get();
 
-        return view('school.student_detail', compact('student', 'attempts'));
+        return view('school.student_detail', compact('student', 'attempts', 'lessons'));
     }
 }
