@@ -9,7 +9,12 @@
 <body class="bg-gray-100 p-8">
 
     <div class="max-w-4xl mx-auto">
-        <h1 class="text-3xl font-bold mb-6">Vragen Beheer</h1>
+        <div class="flex justify-between items-center mb-6">
+            <h1 class="text-3xl font-bold">Vragen Beheer</h1>
+            <a href="{{ route('school.dashboard') }}" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">
+                Naar Rijschool Dashboard →
+            </a>
+        </div>
 
         @if(session('success'))
             <div class="bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded mb-4">

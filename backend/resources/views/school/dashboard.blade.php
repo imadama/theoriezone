@@ -12,6 +12,9 @@
         <div class="flex justify-between items-center mb-8">
             <h1 class="text-3xl font-bold">Mijn Leerlingen</h1>
             <div>
+                 @if(Auth::user()->role === 'admin')
+                    <a href="{{ route('admin.index') }}" class="mr-4 text-indigo-600 font-semibold hover:underline">← Terug naar Vragen</a>
+                 @endif
                  <span class="mr-4 text-gray-600">Welkom, {{ Auth::user()->name }}</span>
                  <a href="{{ route('school.create') }}" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">Nieuwe Leerling</a>
             </div>
