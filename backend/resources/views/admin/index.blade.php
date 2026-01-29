@@ -11,8 +11,8 @@
     <div class="max-w-4xl mx-auto">
         <div class="flex justify-between items-center mb-6">
             <h1 class="text-3xl font-bold">Vragen Beheer</h1>
-            <a href="{{ route('school.dashboard') }}" class="bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700">
-                Naar Rijschool Dashboard →
+            <a href="{{ route('admin.dashboard') }}" class="bg-gray-600 text-white px-4 py-2 rounded hover:bg-gray-700">
+                ← Terug naar Dashboard
             </a>
         </div>
 
