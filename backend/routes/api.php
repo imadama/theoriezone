@@ -54,4 +54,7 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/exams/random', [ExamController::class, 'startRandom']);
     Route::post('/exams/{id}/submit', [ExamController::class, 'submit']);
     Route::get('/exams/{id}', [ExamController::class, 'show']);
+    
+    // History
+    Route::get('/attempts', [ExamAttemptController::class, 'index']);
 });

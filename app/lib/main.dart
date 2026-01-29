@@ -3,6 +3,7 @@ import 'package:theoriezone_app/paywall_screen.dart';
 import 'package:theoriezone_app/api.dart';
 import 'package:theoriezone_app/exam_list_screen.dart';
 import 'package:theoriezone_app/auth_screen.dart';
+import 'package:theoriezone_app/profile_screen.dart';
 import 'dart:convert';
 
 void main() {
@@ -136,6 +137,12 @@ class _HomeScreenState extends State<HomeScreen> {
     }
   }
 
+  void _openProfile() {
+    Navigator.of(context).push(
+      MaterialPageRoute(builder: (_) => const ProfileScreen()),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     if (_isLoading) {
@@ -147,7 +154,7 @@ class _HomeScreenState extends State<HomeScreen> {
         appBar: AppBar(
           title: const Text('TheorieZone'),
           actions: [
-            IconButton(icon: const Icon(Icons.logout), onPressed: _logout)
+            IconButton(icon: const Icon(Icons.person), onPressed: _openProfile)
           ],
         ),
         body: const ExamListScreen(), // Embed list directly
