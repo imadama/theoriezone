@@ -12,16 +12,28 @@ class DatabaseSeeder extends Seeder
 {
     public function run(): void
     {
-        // 1. Create a user
-        User::firstOrCreate(
-            ['email' => 'student@theoriezone.nl'],
+        // 1. Create Instructor
+        $instructor = User::firstOrCreate(
+            ['email' => 'rijschool@test.nl'],
             [
-                'name' => 'Student Demo',
-                'password' => Hash::make('password'),
+                'name' => 'Instructeur Jan',
+                'password' => Hash::make('rijschool123'),
+                'role' => 'instructor',
             ]
         );
 
-        // 2. Create the Exam
+        // 2. Create Student linked to Instructor
+        User::firstOrCreate(
+            ['email' => 'leerling@test.nl'],
+            [
+                'name' => 'Leerling Piet',
+                'password' => Hash::make('leerling123'),
+                'role' => 'student',
+                'instructor_id' => $instructor->id,
+            ]
+        );
+
+        // 3. Create the Exam
         $exam = Exam::firstOrCreate(
             ['slug' => 'auto-theorie-b-oefenexamen-1'],
             [
@@ -32,20 +44,6 @@ class DatabaseSeeder extends Seeder
                 'total_questions' => 50,
             ]
         );
-
-        // 3. Create the Question (Breath test)
-        $q1 = Question::create([
-            'text' => 'Als de agent je vraagt om mee te werken aan een ademtest, moet je daar dan aan meewerken?',
-            'type' => 'multiple_choice',
-            'options' => ['Ja', 'Nee'],
-            'correct_index' => 0, // Ja
-            'category' => 'Wetgeving',
-            'image_path' => '/images/seed/breath_test.jpg', // Path relative to public
-            'explanation' => 'Je bent verplicht mee te werken aan een ademtest als een bevoegd ambtenaar dit vordert.',
-        ]);
-
-        // Link question to exam
-        $exam->questions()->attach($q1->id, ['position' => 1]);
 
         // 4. Run Scraped Questions
         $this->call(ScrapedQuestionsSeeder::class);
