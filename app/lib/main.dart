@@ -2,10 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:theoriezone_app/paywall_screen.dart';
 import 'package:theoriezone_app/api.dart';
-import 'package:theoriezone_app/exam_list_screen.dart';
+import 'package:theoriezone_app/dashboard_screen.dart';
 import 'package:theoriezone_app/auth_screen.dart';
 import 'package:theoriezone_app/profile_screen.dart';
 import 'package:theoriezone_app/onboarding_screen.dart';
+import 'package:theoriezone_app/theme.dart';
 import 'dart:convert';
 
 void main() {
@@ -20,10 +21,7 @@ class TheorieZoneApp extends StatelessWidget {
     return MaterialApp(
       title: 'TheorieZone',
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        useMaterial3: true,
-      ),
+      theme: AppTheme.lightTheme,
       home: const StartupScreen(),
     );
   }
@@ -44,7 +42,6 @@ class _StartupScreenState extends State<StartupScreen> {
   }
 
   Future<void> _checkSession() async {
-    // 1. Check Onboarding
     final prefs = await SharedPreferences.getInstance();
     final seenOnboarding = prefs.getBool('seen_onboarding') ?? false;
 
@@ -57,7 +54,6 @@ class _StartupScreenState extends State<StartupScreen> {
       return;
     }
 
-    // 2. Check Auth
     final token = await Api.getToken();
     if (token == null) {
       if (mounted) {
@@ -90,11 +86,22 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   bool _hasAccess = false;
   bool _isLoading = true;
+  Map<String, dynamic>? _user;
 
   @override
   void initState() {
     super.initState();
     _checkAccess();
+    _fetchUser();
+  }
+
+  Future<void> _fetchUser() async {
+     try {
+       final res = await Api.get('/user');
+       if (res.statusCode == 200) {
+         if (mounted) setState(() => _user = jsonDecode(res.body));
+       }
+     } catch(e) {}
   }
 
   Future<void> _checkAccess() async {
@@ -110,8 +117,7 @@ class _HomeScreenState extends State<HomeScreen> {
         }
         return;
       } else if (res.statusCode == 401) {
-        // Token expired
-        await Api.setToken(""); // Clear
+        await Api.setToken(""); 
         if (mounted) {
            Navigator.of(context).pushReplacement(
             MaterialPageRoute(builder: (_) => const AuthScreen()),
@@ -119,9 +125,7 @@ class _HomeScreenState extends State<HomeScreen> {
         }
         return;
       }
-    } catch (e) {
-      // Network error
-    }
+    } catch (e) {}
     
     if (mounted) {
       setState(() {
@@ -146,7 +150,7 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   void _logout() async {
-    await Api.setToken(""); // Clear token
+    await Api.setToken(""); 
     if (mounted) {
       Navigator.of(context).pushReplacement(
         MaterialPageRoute(builder: (_) => const AuthScreen()),
@@ -169,15 +173,22 @@ class _HomeScreenState extends State<HomeScreen> {
     if (_hasAccess) {
       return Scaffold(
         appBar: AppBar(
-          title: const Text('TheorieZone'),
+          title: const Text('TheorieZone', style: TextStyle(color: Colors.transparent)), 
+          elevation: 0,
+          backgroundColor: AppColors.background, // Match dashboard bg
           actions: [
-            IconButton(icon: const Icon(Icons.person), onPressed: _openProfile)
+            Container(
+               margin: const EdgeInsets.only(right: 16),
+               decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(12)),
+               child: IconButton(icon: const Icon(Icons.person, color: AppColors.primary), onPressed: _openProfile)
+            )
           ],
         ),
-        body: const ExamListScreen(), // Embed list directly
+        body: DashboardScreen(user: _user),
       );
     }
 
+    // No Access State (keep simple for now, maybe redesign later)
     return Scaffold(
       appBar: AppBar(
         title: const Text('TheorieZone'),
@@ -189,7 +200,7 @@ class _HomeScreenState extends State<HomeScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Icon(Icons.school_outlined, size: 80, color: Colors.deepPurple),
+            const Icon(Icons.school_outlined, size: 80, color: AppColors.primary),
             const SizedBox(height: 24),
             const Text(
               'Welkom bij TheorieZone',
@@ -200,9 +211,6 @@ class _HomeScreenState extends State<HomeScreen> {
             const SizedBox(height: 32),
             ElevatedButton(
               onPressed: _showPaywall,
-              style: ElevatedButton.styleFrom(
-                padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 16),
-              ),
               child: const Text('Cursus ontgrendelen'),
             ),
           ],
