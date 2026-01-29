@@ -27,8 +27,16 @@ class ExamController extends Controller
 
     public function startRandom(Request $request)
     {
-        $questions = Question::where('is_active', true)
-            ->inRandomOrder()
+        $category = $request->input('category');
+        
+        $query = Question::where('is_active', true);
+        
+        if ($category && $category !== 'all') {
+            // Fuzzy match because categories might be dirty scraped data
+            $query->where('category', 'like', "%{$category}%");
+        }
+
+        $questions = $query->inRandomOrder()
             ->limit(50)
             ->get(['id', 'text', 'type', 'options', 'category', 'image_path']);
 
@@ -38,9 +46,15 @@ class ExamController extends Controller
 
         $this->transformImages($questions);
 
+        // Determine title
+        $title = 'Oefenexamen';
+        if ($category && $category !== 'all') {
+            $title .= ' (' . ucfirst($category) . ')';
+        }
+
         $attempt = ExamAttempt::create([
-            'user_id' => 1,
-            'exam_id' => 1, 
+            'user_id' => $request->user()->id, 
+            'exam_id' => 1, // We keep 1 as generic ID for now, or null
             'started_at' => now(),
             'status' => 'in_progress',
             'answers' => []
@@ -48,6 +62,7 @@ class ExamController extends Controller
 
         return response()->json([
             'attempt_id' => $attempt->id,
+            'title' => $title,
             'questions' => $questions,
             'duration_minutes' => 30
         ]);
