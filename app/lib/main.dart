@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:theoriezone_app/paywall_screen.dart';
 import 'package:theoriezone_app/api.dart';
 import 'package:theoriezone_app/exam_list_screen.dart';
 import 'package:theoriezone_app/auth_screen.dart';
 import 'package:theoriezone_app/profile_screen.dart';
+import 'package:theoriezone_app/onboarding_screen.dart';
 import 'dart:convert';
 
 void main() {
@@ -17,6 +19,7 @@ class TheorieZoneApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'TheorieZone',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
@@ -41,6 +44,20 @@ class _StartupScreenState extends State<StartupScreen> {
   }
 
   Future<void> _checkSession() async {
+    // 1. Check Onboarding
+    final prefs = await SharedPreferences.getInstance();
+    final seenOnboarding = prefs.getBool('seen_onboarding') ?? false;
+
+    if (!seenOnboarding) {
+      if (mounted) {
+        Navigator.of(context).pushReplacement(
+          MaterialPageRoute(builder: (_) => const OnboardingScreen()),
+        );
+      }
+      return;
+    }
+
+    // 2. Check Auth
     final token = await Api.getToken();
     if (token == null) {
       if (mounted) {
