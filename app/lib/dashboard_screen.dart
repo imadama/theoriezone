@@ -161,10 +161,24 @@ import 'package:theoriezone_app/lessons_screen.dart';
           
           const SizedBox(height: 24),
 
+import 'package:theoriezone_app/progress_screen.dart';
+
+// ...
+
           // Secondary Row
           Row(
             children: [
               Expanded(
+                 child: _ActionCard(
+                  title: "Voortgang",
+                  subtitle: "Mijn Skills",
+                  icon: Icons.bar_chart_rounded,
+                  color: Colors.green,
+                  onTap: () => Navigator.push(context, MaterialPageRoute(builder: (_) => const ProgressScreen())),
+                ),
+              ),
+               const SizedBox(width: 16),
+               Expanded(
                  child: _ActionCard(
                   title: "Fouten",
                   subtitle: "Reviewen",
@@ -176,8 +190,6 @@ import 'package:theoriezone_app/lessons_screen.dart';
                   },
                 ),
               ),
-               const SizedBox(width: 16),
-               const Spacer(), // Placeholder for next feature
             ],
           ),
           
