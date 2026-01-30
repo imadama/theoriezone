@@ -52,6 +52,11 @@ class SchoolController extends Controller
         return redirect()->route('school.dashboard')->with('success', 'Leerling toegevoegd!');
     }
 
+use App\Models\Skill;
+use Illuminate\Support\Facades\DB;
+
+// ...
+
     public function showStudent($id)
     {
         $student = User::where('instructor_id', Auth::id())->findOrFail($id);
@@ -66,6 +71,12 @@ class SchoolController extends Controller
             ->orderBy('start_time', 'asc')
             ->get();
 
-        return view('school.student_detail', compact('student', 'attempts', 'lessons'));
+        // Fetch Skills & Progress
+        $skills = Skill::all()->groupBy('category');
+        $progress = DB::table('student_progress')
+            ->where('student_id', $student->id)
+            ->pluck('score', 'skill_id');
+
+        return view('school.student_detail', compact('student', 'attempts', 'lessons', 'skills', 'progress'));
     }
 }

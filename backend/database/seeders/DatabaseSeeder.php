@@ -57,5 +57,8 @@ class DatabaseSeeder extends Seeder
 
         // 4. Run Scraped Questions
         $this->call(ScrapedQuestionsSeeder::class);
+        
+        // 5. Run Skills
+        $this->call(SkillsSeeder::class);
     }
 }

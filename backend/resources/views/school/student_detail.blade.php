@@ -92,11 +92,48 @@
                 </div>
             </div>
 
-            <!-- Right: Exam Results -->
-            <div class="bg-white shadow rounded-lg overflow-hidden h-fit">
-                <div class="px-6 py-4 border-b bg-gray-50">
-                    <h2 class="text-lg font-bold text-gray-700">Theorie Resultaten</h2>
+            <!-- Right: Exam Results & Progress -->
+            <div class="h-fit space-y-6">
+                
+                <!-- Progress Card (RIS) -->
+                <div class="bg-white shadow rounded-lg overflow-hidden">
+                    <div class="px-6 py-4 border-b bg-gray-50 flex justify-between items-center">
+                        <h2 class="text-lg font-bold text-gray-700">Vorderingen (RIS)</h2>
+                        <button form="progressForm" type="submit" class="text-sm bg-green-600 text-white px-3 py-1 rounded hover:bg-green-700">Opslaan</button>
+                    </div>
+                    
+                    <form id="progressForm" action="{{ route('school.progress.update') }}" method="POST" class="p-4 max-h-96 overflow-y-auto">
+                        @csrf
+                        <input type="hidden" name="student_id" value="{{ $student->id }}">
+                        
+                        @foreach($skills as $category => $catSkills)
+                            <div class="mb-4">
+                                <h3 class="font-bold text-gray-800 mb-2 border-b pb-1">{{ $category }}</h3>
+                                @foreach($catSkills as $skill)
+                                    <div class="flex justify-between items-center mb-2 text-sm">
+                                        <span class="text-gray-600 w-1/2">{{ $skill->name }}</span>
+                                        <div class="flex space-x-1">
+                                            @for($i = 1; $i <= 5; $i++)
+                                                <label class="cursor-pointer">
+                                                    <input type="radio" name="progress[{{ $skill->id }}]" value="{{ $i }}" {{ ($progress[$skill->id] ?? 0) == $i ? 'checked' : '' }} class="hidden peer">
+                                                    <span class="w-6 h-6 rounded-full border flex items-center justify-center peer-checked:bg-yellow-400 peer-checked:text-white hover:bg-gray-100">
+                                                        {{ $i }}
+                                                    </span>
+                                                </label>
+                                            @endfor
+                                        </div>
+                                    </div>
+                                @endforeach
+                            </div>
+                        @endforeach
+                    </form>
                 </div>
+
+                <!-- Theory Results -->
+                <div class="bg-white shadow rounded-lg overflow-hidden">
+                    <div class="px-6 py-4 border-b bg-gray-50">
+                        <h2 class="text-lg font-bold text-gray-700">Theorie Resultaten</h2>
+                    </div>
                 
                 <table class="min-w-full leading-normal">
                     <thead>

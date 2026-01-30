@@ -4,8 +4,9 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\DB;
 use App\Http\Controllers\ExamController;
-
 use App\Http\Controllers\AuthController;
+use App\Http\Controllers\LessonController;
+use App\Http\Controllers\ExamAttemptController;
 
 // Public Auth
 Route::post('/register', [AuthController::class, 'register']);
@@ -55,11 +56,14 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::post('/exams/{id}/submit', [ExamController::class, 'submit']);
     Route::get('/exams/{id}', [ExamController::class, 'show']);
     
-use App\Http\Controllers\LessonController;
+use App\Http\Controllers\ProgressController;
 
     // History
     Route::get('/attempts', [ExamAttemptController::class, 'index']);
     
     // Lessons
     Route::get('/lessons', [LessonController::class, 'index']);
+    
+    // Progress (App)
+    Route::get('/progress', [ProgressController::class, 'index']);
 });

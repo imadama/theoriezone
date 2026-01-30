@@ -35,7 +35,12 @@ Route::middleware(['auth'])->group(function () {
     Route::post('/school/store', [SchoolController::class, 'storeStudent'])->name('school.store');
     Route::get('/school/student/{id}', [SchoolController::class, 'showStudent'])->name('school.student');
     
+use App\Http\Controllers\ProgressController;
+
     // Lessons
     Route::post('/school/lessons', [LessonController::class, 'store'])->name('school.lessons.store');
     Route::delete('/school/lessons/{id}', [LessonController::class, 'destroy'])->name('school.lessons.destroy');
+    
+    // Progress
+    Route::post('/school/progress', [ProgressController::class, 'update'])->name('school.progress.update');
 });
